@@ -1,0 +1,1 @@
+/usr/bin/gcc  -O2 -w  -L/home/lagadanu/devel/optee/qemu/out-br/host/lib -Wl,-rpath,/home/lagadanu/devel/optee/qemu/out-br/host/lib -rdynamic CMakeFiles/LIBCURL.dir/curltest.c.o  -o LIBCURL lib/libcmcurl.a -ldl ../cmzlib/libcmzlib.a 

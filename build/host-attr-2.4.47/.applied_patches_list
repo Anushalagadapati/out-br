@@ -1,0 +1,3 @@
+/home/lagadanu/devel/optee/qemu/buildroot/package/attr/0001-support-static-installation.patch
+/home/lagadanu/devel/optee/qemu/buildroot/package/attr/0002-avoid-glibc-specific-decls-defines.patch
+/home/lagadanu/devel/optee/qemu/buildroot/package/attr/0003-portability-fixes.patch

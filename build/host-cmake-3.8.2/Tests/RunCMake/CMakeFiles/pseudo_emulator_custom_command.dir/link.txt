@@ -1,0 +1,1 @@
+/usr/bin/gcc -O2  -L/home/lagadanu/devel/optee/qemu/out-br/host/lib -Wl,-rpath,/home/lagadanu/devel/optee/qemu/out-br/host/lib -rdynamic CMakeFiles/pseudo_emulator_custom_command.dir/pseudo_emulator_custom_command.c.o  -o pseudo_emulator_custom_command 

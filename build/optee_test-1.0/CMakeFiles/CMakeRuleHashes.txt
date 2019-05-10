@@ -1,0 +1,5 @@
+# Hashes of file build rules.
+616f5d5baae896583849003e3dbbfe46 host/xtest/regression_8100_ca_crt.h
+ee5c2555e3de9671734e88e006f42e19 host/xtest/regression_8100_mid_crt.h
+a9d6355161c5fa89ea712e2b000c4f48 host/xtest/regression_8100_my_crt.h
+e03e6c3cea862a5274d29fcd0f4d9e86 host/xtest/regression_8100_my_csr.h

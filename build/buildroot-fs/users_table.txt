@@ -1,0 +1,2 @@
+   	tee -1 tee -1 * - /bin/sh - TEE user
+

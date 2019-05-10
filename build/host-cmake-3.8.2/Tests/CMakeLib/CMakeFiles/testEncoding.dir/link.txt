@@ -1,0 +1,1 @@
+/usr/bin/g++  -O2  -L/home/lagadanu/devel/optee/qemu/out-br/host/lib -Wl,-rpath,/home/lagadanu/devel/optee/qemu/out-br/host/lib -rdynamic CMakeFiles/testEncoding.dir/testEncoding.cxx.o  -o testEncoding ../../Source/kwsys/libcmsys.a -ldl 

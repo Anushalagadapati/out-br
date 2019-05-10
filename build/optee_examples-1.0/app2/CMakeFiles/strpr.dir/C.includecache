@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lagadanu/Desktop/qemu/out-br/build/optee_examples-1.0/app2/host/main.c
+err.h
+-
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+tee_client_api.h
+-
+strpr_ta.h
+-
+
+app2/ta/include/strpr_ta.h
+

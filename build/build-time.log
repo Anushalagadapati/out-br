@@ -1,0 +1,2319 @@
+1534913090:start:extract             : host-skeleton
+1534913090:end  :extract             : host-skeleton
+1534913091:start:patch               : host-skeleton
+1534913091:end  :patch               : host-skeleton
+1534913091:start:configure           : host-skeleton
+1534913091:end  :configure           : host-skeleton
+1534913091:start:build               : host-skeleton
+1534913091:end  :build               : host-skeleton
+1534913091:start:install-host        : host-skeleton
+1534913091:end  :install-host        : host-skeleton
+1534913188:start:extract             : host-lzip
+1534913189:end  :extract             : host-lzip
+1534913189:start:patch               : host-lzip
+1534913189:end  :patch               : host-lzip
+1534913189:start:configure           : host-lzip
+1534913189:end  :configure           : host-lzip
+1534913189:start:build               : host-lzip
+1534913197:end  :build               : host-lzip
+1534913197:start:install-host        : host-lzip
+1534913197:end  :install-host        : host-lzip
+1534913197:start:extract             : host-ccache
+1534913197:end  :extract             : host-ccache
+1534913197:start:patch               : host-ccache
+1534913198:end  :patch               : host-ccache
+1534913198:start:configure           : host-ccache
+1534913203:end  :configure           : host-ccache
+1534913203:start:build               : host-ccache
+1534913210:end  :build               : host-ccache
+1534913210:start:install-host        : host-ccache
+1534913210:end  :install-host        : host-ccache
+1534913290:start:extract             : host-attr
+1534913290:end  :extract             : host-attr
+1534913290:start:patch               : host-attr
+1534913291:end  :patch               : host-attr
+1534913291:start:configure           : host-attr
+1534913296:end  :configure           : host-attr
+1534913296:start:build               : host-attr
+1534913299:end  :build               : host-attr
+1534913299:start:install-host        : host-attr
+1534913301:end  :install-host        : host-attr
+1534913412:start:extract             : host-acl
+1534913412:end  :extract             : host-acl
+1534913412:start:patch               : host-acl
+1534913412:end  :patch               : host-acl
+1534913412:start:configure           : host-acl
+1534913417:end  :configure           : host-acl
+1534913417:start:build               : host-acl
+1534913432:end  :build               : host-acl
+1534913432:start:install-host        : host-acl
+1534913433:end  :install-host        : host-acl
+1534913454:start:extract             : host-fakeroot
+1534913454:end  :extract             : host-fakeroot
+1534913454:start:patch               : host-fakeroot
+1534913455:end  :patch               : host-fakeroot
+1534913455:start:configure           : host-fakeroot
+1534913466:end  :configure           : host-fakeroot
+1534913466:start:build               : host-fakeroot
+1534913468:end  :build               : host-fakeroot
+1534913468:start:install-host        : host-fakeroot
+1534913468:end  :install-host        : host-fakeroot
+1534913469:start:extract             : host-makedevs
+1534913469:end  :extract             : host-makedevs
+1534913469:start:patch               : host-makedevs
+1534913469:end  :patch               : host-makedevs
+1534913469:start:configure           : host-makedevs
+1534913469:end  :configure           : host-makedevs
+1534913469:start:build               : host-makedevs
+1534913469:end  :build               : host-makedevs
+1534913469:start:install-host        : host-makedevs
+1534913469:end  :install-host        : host-makedevs
+1534913469:start:extract             : skeleton-init-common
+1534913469:end  :extract             : skeleton-init-common
+1534913469:start:patch               : skeleton-init-common
+1534913469:end  :patch               : skeleton-init-common
+1534913469:start:configure           : skeleton-init-common
+1534913469:end  :configure           : skeleton-init-common
+1534913469:start:build               : skeleton-init-common
+1534913469:end  :build               : skeleton-init-common
+1534913469:start:install-staging     : skeleton-init-common
+1534913470:end  :install-staging     : skeleton-init-common
+1534913470:start:install-target      : skeleton-init-common
+1534913470:end  :install-target      : skeleton-init-common
+1534913470:start:extract             : skeleton-init-sysv
+1534913470:end  :extract             : skeleton-init-sysv
+1534913470:start:patch               : skeleton-init-sysv
+1534913470:end  :patch               : skeleton-init-sysv
+1534913470:start:configure           : skeleton-init-sysv
+1534913470:end  :configure           : skeleton-init-sysv
+1534913471:start:build               : skeleton-init-sysv
+1534913471:end  :build               : skeleton-init-sysv
+1534913471:start:install-target      : skeleton-init-sysv
+1534913471:end  :install-target      : skeleton-init-sysv
+1534913471:start:extract             : skeleton
+1534913471:end  :extract             : skeleton
+1534913471:start:patch               : skeleton
+1534913471:end  :patch               : skeleton
+1534913471:start:configure           : skeleton
+1534913471:end  :configure           : skeleton
+1534913471:start:build               : skeleton
+1534913471:end  :build               : skeleton
+1534913471:start:install-target      : skeleton
+1534913471:end  :install-target      : skeleton
+1534913471:start:extract             : toolchain-external-custom
+1534913471:end  :extract             : toolchain-external-custom
+1534913471:start:patch               : toolchain-external-custom
+1534913471:end  :patch               : toolchain-external-custom
+1534913471:start:configure           : toolchain-external-custom
+1534913472:end  :configure           : toolchain-external-custom
+1534913472:start:build               : toolchain-external-custom
+1534913472:end  :build               : toolchain-external-custom
+1534913472:start:install-staging     : toolchain-external-custom
+1534913494:end  :install-staging     : toolchain-external-custom
+1534913494:start:install-target      : toolchain-external-custom
+1534913497:end  :install-target      : toolchain-external-custom
+1534913497:start:extract             : toolchain-external
+1534913497:end  :extract             : toolchain-external
+1534913497:start:patch               : toolchain-external
+1534913497:end  :patch               : toolchain-external
+1534913497:start:configure           : toolchain-external
+1534913497:end  :configure           : toolchain-external
+1534913497:start:build               : toolchain-external
+1534913497:end  :build               : toolchain-external
+1534913497:start:install-target      : toolchain-external
+1534913497:end  :install-target      : toolchain-external
+1534913497:start:extract             : toolchain
+1534913497:end  :extract             : toolchain
+1534913497:start:patch               : toolchain
+1534913497:end  :patch               : toolchain
+1534913497:start:configure           : toolchain
+1534913497:end  :configure           : toolchain
+1534913498:start:build               : toolchain
+1534913498:end  :build               : toolchain
+1534913498:start:install-staging     : toolchain
+1534913498:end  :install-staging     : toolchain
+1534913498:start:install-target      : toolchain
+1534913498:end  :install-target      : toolchain
+1534913553:start:extract             : busybox
+1534913554:end  :extract             : busybox
+1534913554:start:patch               : busybox
+1534913554:end  :patch               : busybox
+1534913569:start:configure           : busybox
+1534913569:end  :configure           : busybox
+1534913569:start:build               : busybox
+1534913676:end  :build               : busybox
+1534913676:start:install-target      : busybox
+1534913680:end  :install-target      : busybox
+1534913706:start:extract             : host-pkgconf
+1534913706:end  :extract             : host-pkgconf
+1534913706:start:patch               : host-pkgconf
+1534913706:end  :patch               : host-pkgconf
+1534913706:start:configure           : host-pkgconf
+1534913708:end  :configure           : host-pkgconf
+1534913708:start:build               : host-pkgconf
+1534913710:end  :build               : host-pkgconf
+1534913710:start:install-host        : host-pkgconf
+1534913710:end  :install-host        : host-pkgconf
+1534913722:start:extract             : host-libzlib
+1534913722:end  :extract             : host-libzlib
+1534913722:start:patch               : host-libzlib
+1534913723:end  :patch               : host-libzlib
+1534913723:start:configure           : host-libzlib
+1534913724:end  :configure           : host-libzlib
+1534913724:start:build               : host-libzlib
+1534913733:end  :build               : host-libzlib
+1534913733:start:install-host        : host-libzlib
+1534913733:end  :install-host        : host-libzlib
+1534913733:start:extract             : host-zlib
+1534913733:end  :extract             : host-zlib
+1534913733:start:patch               : host-zlib
+1534913733:end  :patch               : host-zlib
+1534913733:start:configure           : host-zlib
+1534913733:end  :configure           : host-zlib
+1534913733:start:build               : host-zlib
+1534913733:end  :build               : host-zlib
+1534913733:start:install-host        : host-zlib
+1534913733:end  :install-host        : host-zlib
+1534913771:start:extract             : host-util-linux
+1534913772:end  :extract             : host-util-linux
+1534913772:start:patch               : host-util-linux
+1534913772:end  :patch               : host-util-linux
+1534913772:start:configure           : host-util-linux
+1534913802:end  :configure           : host-util-linux
+1534913802:start:build               : host-util-linux
+1534913959:end  :build               : host-util-linux
+1534913959:start:install-host        : host-util-linux
+1534913962:end  :install-host        : host-util-linux
+1534913996:start:extract             : host-e2fsprogs
+1534913996:end  :extract             : host-e2fsprogs
+1534913996:start:patch               : host-e2fsprogs
+1534913997:end  :patch               : host-e2fsprogs
+1534913997:start:configure           : host-e2fsprogs
+1534914021:end  :configure           : host-e2fsprogs
+1534914021:start:build               : host-e2fsprogs
+1534914076:end  :build               : host-e2fsprogs
+1534914076:start:install-host        : host-e2fsprogs
+1534914077:end  :install-host        : host-e2fsprogs
+1534914078:start:extract             : ifupdown-scripts
+1534914078:end  :extract             : ifupdown-scripts
+1534914078:start:patch               : ifupdown-scripts
+1534914079:end  :patch               : ifupdown-scripts
+1534914079:start:configure           : ifupdown-scripts
+1534914079:end  :configure           : ifupdown-scripts
+1534914079:start:build               : ifupdown-scripts
+1534914079:end  :build               : ifupdown-scripts
+1534914079:start:install-target      : ifupdown-scripts
+1534914079:end  :install-target      : ifupdown-scripts
+1534914079:start:extract             : initscripts
+1534914079:end  :extract             : initscripts
+1534914079:start:patch               : initscripts
+1534914079:end  :patch               : initscripts
+1534914079:start:configure           : initscripts
+1534914079:end  :configure           : initscripts
+1534914079:start:build               : initscripts
+1534914079:end  :build               : initscripts
+1534914079:start:install-target      : initscripts
+1534914079:end  :install-target      : initscripts
+1534914080:start:extract             : libzlib
+1534914080:end  :extract             : libzlib
+1534914080:start:patch               : libzlib
+1534914080:end  :patch               : libzlib
+1534914080:start:configure           : libzlib
+1534914081:end  :configure           : libzlib
+1534914081:start:build               : libzlib
+1534914089:end  :build               : libzlib
+1534914089:start:install-staging     : libzlib
+1534914089:end  :install-staging     : libzlib
+1534914089:start:install-target      : libzlib
+1534914089:end  :install-target      : libzlib
+1534914089:start:extract             : zlib
+1534914089:end  :extract             : zlib
+1534914089:start:patch               : zlib
+1534914089:end  :patch               : zlib
+1534914089:start:configure           : zlib
+1534914089:end  :configure           : zlib
+1534914089:start:build               : zlib
+1534914089:end  :build               : zlib
+1534914090:start:install-target      : zlib
+1534914090:end  :install-target      : zlib
+1534914387:start:extract             : libopenssl
+1534914388:end  :extract             : libopenssl
+1534914388:start:patch               : libopenssl
+1534914388:end  :patch               : libopenssl
+1534914388:start:configure           : libopenssl
+1534914391:end  :configure           : libopenssl
+1534914391:start:build               : libopenssl
+1534914562:end  :build               : libopenssl
+1534914562:start:install-staging     : libopenssl
+1534914564:end  :install-staging     : libopenssl
+1534914564:start:install-target      : libopenssl
+1534914565:end  :install-target      : libopenssl
+1534914566:start:extract             : openssl
+1534914566:end  :extract             : openssl
+1534914566:start:patch               : openssl
+1534914566:end  :patch               : openssl
+1534914566:start:configure           : openssl
+1534914566:end  :configure           : openssl
+1534914566:start:build               : openssl
+1534914566:end  :build               : openssl
+1534914566:start:install-target      : openssl
+1534914566:end  :install-target      : openssl
+1534914601:start:extract             : host-patchelf
+1534914601:end  :extract             : host-patchelf
+1534914601:start:patch               : host-patchelf
+1534914601:end  :patch               : host-patchelf
+1534914601:start:configure           : host-patchelf
+1534914604:end  :configure           : host-patchelf
+1534914604:start:build               : host-patchelf
+1534914609:end  :build               : host-patchelf
+1534914609:start:install-host        : host-patchelf
+1534914610:end  :install-host        : host-patchelf
+1534914632:start:extract             : strace
+1534914633:end  :extract             : strace
+1534914633:start:patch               : strace
+1534914633:end  :patch               : strace
+1534914633:start:configure           : strace
+1534914688:end  :configure           : strace
+1534914688:start:build               : strace
+1534914729:end  :build               : strace
+1534914729:start:install-target      : strace
+1534914730:end  :install-target      : strace
+1534914793:start:extract             : host-cmake
+1534914795:end  :extract             : host-cmake
+1534914795:start:patch               : host-cmake
+1534914795:end  :patch               : host-cmake
+1534914795:start:configure           : host-cmake
+1534915028:end  :configure           : host-cmake
+1534915028:start:build               : host-cmake
+1534915679:end  :build               : host-cmake
+1534915689:start:install-host        : host-cmake
+1534915691:end  :install-host        : host-cmake
+1534915693:start:configure           : optee_client
+1534915696:end  :configure           : optee_client
+1534915696:start:build               : optee_client
+1534915699:end  :build               : optee_client
+1534915699:start:install-staging     : optee_client
+1534915699:end  :install-staging     : optee_client
+1534915699:start:install-target      : optee_client
+1534915699:end  :install-target      : optee_client
+1534915755:start:extract             : host-m4
+1534915755:end  :extract             : host-m4
+1534915755:start:patch               : host-m4
+1534915755:end  :patch               : host-m4
+1534915755:start:configure           : host-m4
+1534915790:end  :configure           : host-m4
+1534915790:start:build               : host-m4
+1534915796:end  :build               : host-m4
+1534915796:start:install-host        : host-m4
+1534915796:end  :install-host        : host-m4
+1534915881:start:extract             : host-gmp
+1534915881:end  :extract             : host-gmp
+1534915881:start:patch               : host-gmp
+1534915882:end  :patch               : host-gmp
+1534915882:start:configure           : host-gmp
+1534915901:end  :configure           : host-gmp
+1534915901:start:build               : host-gmp
+1534915955:end  :build               : host-gmp
+1534915955:start:install-host        : host-gmp
+1534915956:end  :install-host        : host-gmp
+1534916000:start:extract             : host-libtool
+1534916000:end  :extract             : host-libtool
+1534916000:start:patch               : host-libtool
+1534916000:end  :patch               : host-libtool
+1534916000:start:configure           : host-libtool
+1534916006:end  :configure           : host-libtool
+1534916007:start:build               : host-libtool
+1534916009:end  :build               : host-libtool
+1534916009:start:install-host        : host-libtool
+1534916010:end  :install-host        : host-libtool
+1534916069:start:extract             : host-autoconf
+1534916069:end  :extract             : host-autoconf
+1534916069:start:patch               : host-autoconf
+1534916069:end  :patch               : host-autoconf
+1534916069:start:configure           : host-autoconf
+1534916071:end  :configure           : host-autoconf
+1534916071:start:build               : host-autoconf
+1534916072:end  :build               : host-autoconf
+1534916072:start:install-host        : host-autoconf
+1534916072:end  :install-host        : host-autoconf
+1534916144:start:extract             : host-automake
+1534916145:end  :extract             : host-automake
+1534916145:start:patch               : host-automake
+1534916145:end  :patch               : host-automake
+1534916145:start:configure           : host-automake
+1534916146:end  :configure           : host-automake
+1534916146:start:build               : host-automake
+1534916147:end  :build               : host-automake
+1534916147:start:install-host        : host-automake
+1534916147:end  :install-host        : host-automake
+1534916149:start:extract             : host-expat
+1534916149:end  :extract             : host-expat
+1534916149:start:patch               : host-expat
+1534916149:end  :patch               : host-expat
+1534916149:start:configure           : host-expat
+1534916154:end  :configure           : host-expat
+1534916154:start:build               : host-expat
+1534916157:end  :build               : host-expat
+1534916157:start:install-host        : host-expat
+1534916158:end  :install-host        : host-expat
+1534916171:start:extract             : host-python
+1534916172:end  :extract             : host-python
+1534916172:start:patch               : host-python
+1534916173:end  :patch               : host-python
+1534916173:start:configure           : host-python
+1534916204:end  :configure           : host-python
+1534916204:start:build               : host-python
+1534916321:end  :build               : host-python
+1534916321:start:install-host        : host-python
+1534916324:end  :install-host        : host-python
+1534916328:start:extract             : host-python-pycrypto
+1534916328:end  :extract             : host-python-pycrypto
+1534916328:start:patch               : host-python-pycrypto
+1534916328:end  :patch               : host-python-pycrypto
+1534916328:start:configure           : host-python-pycrypto
+1534916328:end  :configure           : host-python-pycrypto
+1534916328:start:build               : host-python-pycrypto
+1534916337:end  :build               : host-python-pycrypto
+1534916338:start:install-host        : host-python-pycrypto
+1534916338:end  :install-host        : host-python-pycrypto
+1534916346:start:configure           : optee_examples
+1534916349:end  :configure           : optee_examples
+1534916349:start:build               : optee_examples
+1534916366:end  :build               : optee_examples
+1534916366:start:install-staging     : optee_examples
+1534916366:end  :install-staging     : optee_examples
+1534916366:start:install-target      : optee_examples
+1534916366:end  :install-target      : optee_examples
+1534916370:start:configure           : optee_test
+1534916375:end  :configure           : optee_test
+1534916375:start:build               : optee_test
+1534916392:end  :build               : optee_test
+1534916392:start:install-staging     : optee_test
+1534916392:end  :install-staging     : optee_test
+1534916392:start:install-target      : optee_test
+1534916392:end  :install-target      : optee_test
+1535088587:start:configure           : optee_client
+1535088604:end  :configure           : optee_client
+1535088604:start:build               : optee_client
+1535088604:end  :build               : optee_client
+1535088604:start:install-staging     : optee_client
+1535088605:end  :install-staging     : optee_client
+1535088606:start:install-target      : optee_client
+1535088607:end  :install-target      : optee_client
+1535088609:start:configure           : optee_examples
+1535088611:end  :configure           : optee_examples
+1535088611:start:build               : optee_examples
+1535088613:end  :build               : optee_examples
+1535088613:start:install-staging     : optee_examples
+1535088613:end  :install-staging     : optee_examples
+1535088614:start:install-target      : optee_examples
+1535088614:end  :install-target      : optee_examples
+1535088621:start:configure           : optee_test
+1535088632:end  :configure           : optee_test
+1535088632:start:build               : optee_test
+1535088635:end  :build               : optee_test
+1535088635:start:install-staging     : optee_test
+1535088636:end  :install-staging     : optee_test
+1535088636:start:install-target      : optee_test
+1535088637:end  :install-target      : optee_test
+1536128617:start:configure           : optee_client
+1536128621:end  :configure           : optee_client
+1536128621:start:build               : optee_client
+1536128621:end  :build               : optee_client
+1536128621:start:install-staging     : optee_client
+1536128621:end  :install-staging     : optee_client
+1536128621:start:install-target      : optee_client
+1536128621:end  :install-target      : optee_client
+1536128622:start:configure           : optee_examples
+1536132244:start:configure           : optee_client
+1536132253:end  :configure           : optee_client
+1536132253:start:build               : optee_client
+1536132253:end  :build               : optee_client
+1536132253:start:install-staging     : optee_client
+1536132253:end  :install-staging     : optee_client
+1536132253:start:install-target      : optee_client
+1536132253:end  :install-target      : optee_client
+1536132254:start:configure           : optee_examples
+1536146350:start:configure           : optee_client
+1536146355:end  :configure           : optee_client
+1536146355:start:build               : optee_client
+1536146355:end  :build               : optee_client
+1536146355:start:install-staging     : optee_client
+1536146355:end  :install-staging     : optee_client
+1536146355:start:install-target      : optee_client
+1536146355:end  :install-target      : optee_client
+1536146356:start:configure           : optee_examples
+1536146357:end  :configure           : optee_examples
+1536146357:start:build               : optee_examples
+1536146359:end  :build               : optee_examples
+1536146359:start:install-staging     : optee_examples
+1536146359:end  :install-staging     : optee_examples
+1536146359:start:install-target      : optee_examples
+1536146359:end  :install-target      : optee_examples
+1536146360:start:configure           : optee_test
+1536146363:end  :configure           : optee_test
+1536146363:start:build               : optee_test
+1536146364:end  :build               : optee_test
+1536146364:start:install-staging     : optee_test
+1536146364:end  :install-staging     : optee_test
+1536146364:start:install-target      : optee_test
+1536146364:end  :install-target      : optee_test
+1537442503:start:configure           : optee_client
+1537442509:end  :configure           : optee_client
+1537442509:start:build               : optee_client
+1537442509:end  :build               : optee_client
+1537442509:start:install-staging     : optee_client
+1537442509:end  :install-staging     : optee_client
+1537442510:start:install-target      : optee_client
+1537442510:end  :install-target      : optee_client
+1537442510:start:configure           : optee_examples
+1537442871:start:configure           : optee_client
+1537442874:end  :configure           : optee_client
+1537442874:start:build               : optee_client
+1537442874:end  :build               : optee_client
+1537442874:start:install-staging     : optee_client
+1537442874:end  :install-staging     : optee_client
+1537442874:start:install-target      : optee_client
+1537442874:end  :install-target      : optee_client
+1537442875:start:configure           : optee_examples
+1537443391:start:configure           : optee_client
+1537443394:end  :configure           : optee_client
+1537443394:start:build               : optee_client
+1537443394:end  :build               : optee_client
+1537443394:start:install-staging     : optee_client
+1537443394:end  :install-staging     : optee_client
+1537443395:start:install-target      : optee_client
+1537443395:end  :install-target      : optee_client
+1537443395:start:configure           : optee_examples
+1537444986:start:configure           : optee_client
+1537444989:end  :configure           : optee_client
+1537444989:start:build               : optee_client
+1537444989:end  :build               : optee_client
+1537444989:start:install-staging     : optee_client
+1537444989:end  :install-staging     : optee_client
+1537444989:start:install-target      : optee_client
+1537444990:end  :install-target      : optee_client
+1537444990:start:configure           : optee_examples
+1537445608:start:configure           : optee_client
+1537445622:end  :configure           : optee_client
+1537445622:start:build               : optee_client
+1537445623:end  :build               : optee_client
+1537445623:start:install-staging     : optee_client
+1537445623:end  :install-staging     : optee_client
+1537445625:start:install-target      : optee_client
+1537445627:end  :install-target      : optee_client
+1537445628:start:configure           : optee_examples
+1537447020:start:configure           : optee_client
+1537447023:end  :configure           : optee_client
+1537447023:start:build               : optee_client
+1537447023:end  :build               : optee_client
+1537447023:start:install-staging     : optee_client
+1537447023:end  :install-staging     : optee_client
+1537447024:start:install-target      : optee_client
+1537447024:end  :install-target      : optee_client
+1537447024:start:configure           : optee_examples
+1537447025:end  :configure           : optee_examples
+1537447025:start:build               : optee_examples
+1537447028:end  :build               : optee_examples
+1537447028:start:install-staging     : optee_examples
+1537447028:end  :install-staging     : optee_examples
+1537447028:start:install-target      : optee_examples
+1537447028:end  :install-target      : optee_examples
+1537447029:start:configure           : optee_test
+1537447032:end  :configure           : optee_test
+1537447032:start:build               : optee_test
+1537447033:end  :build               : optee_test
+1537447033:start:install-staging     : optee_test
+1537447033:end  :install-staging     : optee_test
+1537447033:start:install-target      : optee_test
+1537447033:end  :install-target      : optee_test
+1537856888:start:configure           : optee_client
+1537856892:end  :configure           : optee_client
+1537856892:start:build               : optee_client
+1537856892:end  :build               : optee_client
+1537856892:start:install-staging     : optee_client
+1537856892:end  :install-staging     : optee_client
+1537856892:start:install-target      : optee_client
+1537856892:end  :install-target      : optee_client
+1537856893:start:configure           : optee_examples
+1537856894:end  :configure           : optee_examples
+1537856894:start:build               : optee_examples
+1537858166:start:configure           : optee_client
+1537858169:end  :configure           : optee_client
+1537858169:start:build               : optee_client
+1537858169:end  :build               : optee_client
+1537858169:start:install-staging     : optee_client
+1537858169:end  :install-staging     : optee_client
+1537858169:start:install-target      : optee_client
+1537858169:end  :install-target      : optee_client
+1537858170:start:configure           : optee_examples
+1537858170:end  :configure           : optee_examples
+1537858170:start:build               : optee_examples
+1537858961:start:configure           : optee_client
+1537858964:end  :configure           : optee_client
+1537858964:start:build               : optee_client
+1537858965:end  :build               : optee_client
+1537858965:start:install-staging     : optee_client
+1537858965:end  :install-staging     : optee_client
+1537858965:start:install-target      : optee_client
+1537858965:end  :install-target      : optee_client
+1537858965:start:configure           : optee_examples
+1537858966:end  :configure           : optee_examples
+1537858966:start:build               : optee_examples
+1537860806:start:configure           : optee_client
+1537860810:end  :configure           : optee_client
+1537860810:start:build               : optee_client
+1537860810:end  :build               : optee_client
+1537860810:start:install-staging     : optee_client
+1537860810:end  :install-staging     : optee_client
+1537860810:start:install-target      : optee_client
+1537860810:end  :install-target      : optee_client
+1537860811:start:configure           : optee_examples
+1537860811:end  :configure           : optee_examples
+1537860811:start:build               : optee_examples
+1537863169:start:configure           : optee_client
+1537863172:end  :configure           : optee_client
+1537863172:start:build               : optee_client
+1537863172:end  :build               : optee_client
+1537863172:start:install-staging     : optee_client
+1537863172:end  :install-staging     : optee_client
+1537863172:start:install-target      : optee_client
+1537863172:end  :install-target      : optee_client
+1537863173:start:configure           : optee_examples
+1537863173:end  :configure           : optee_examples
+1537863173:start:build               : optee_examples
+1537863972:start:configure           : optee_client
+1537863976:end  :configure           : optee_client
+1537863976:start:build               : optee_client
+1537863976:end  :build               : optee_client
+1537863976:start:install-staging     : optee_client
+1537863976:end  :install-staging     : optee_client
+1537863976:start:install-target      : optee_client
+1537863976:end  :install-target      : optee_client
+1537863977:start:configure           : optee_examples
+1537863977:end  :configure           : optee_examples
+1537863977:start:build               : optee_examples
+1537865531:start:configure           : optee_client
+1537865536:end  :configure           : optee_client
+1537865536:start:build               : optee_client
+1537865536:end  :build               : optee_client
+1537865536:start:install-staging     : optee_client
+1537865536:end  :install-staging     : optee_client
+1537865536:start:install-target      : optee_client
+1537865536:end  :install-target      : optee_client
+1537865538:start:configure           : optee_examples
+1537865539:end  :configure           : optee_examples
+1537865539:start:build               : optee_examples
+1537865541:end  :build               : optee_examples
+1537865541:start:install-staging     : optee_examples
+1537865541:end  :install-staging     : optee_examples
+1537865541:start:install-target      : optee_examples
+1537865541:end  :install-target      : optee_examples
+1537865542:start:configure           : optee_test
+1537865545:end  :configure           : optee_test
+1537865545:start:build               : optee_test
+1537865546:end  :build               : optee_test
+1537865546:start:install-staging     : optee_test
+1537865546:end  :install-staging     : optee_test
+1537865546:start:install-target      : optee_test
+1537865546:end  :install-target      : optee_test
+1537868234:start:configure           : optee_client
+1537868237:end  :configure           : optee_client
+1537868237:start:build               : optee_client
+1537868237:end  :build               : optee_client
+1537868237:start:install-staging     : optee_client
+1537868237:end  :install-staging     : optee_client
+1537868237:start:install-target      : optee_client
+1537868237:end  :install-target      : optee_client
+1537868238:start:configure           : optee_examples
+1537868238:end  :configure           : optee_examples
+1537868238:start:build               : optee_examples
+1537868241:end  :build               : optee_examples
+1537868241:start:install-staging     : optee_examples
+1537868241:end  :install-staging     : optee_examples
+1537868241:start:install-target      : optee_examples
+1537868241:end  :install-target      : optee_examples
+1537868241:start:configure           : optee_test
+1537868245:end  :configure           : optee_test
+1537868245:start:build               : optee_test
+1537868245:end  :build               : optee_test
+1537868245:start:install-staging     : optee_test
+1537868245:end  :install-staging     : optee_test
+1537868245:start:install-target      : optee_test
+1537868246:end  :install-target      : optee_test
+1537868963:start:configure           : optee_client
+1537868966:end  :configure           : optee_client
+1537868966:start:build               : optee_client
+1537868967:end  :build               : optee_client
+1537868967:start:install-staging     : optee_client
+1537868967:end  :install-staging     : optee_client
+1537868967:start:install-target      : optee_client
+1537868967:end  :install-target      : optee_client
+1537868967:start:configure           : optee_examples
+1537868968:end  :configure           : optee_examples
+1537868968:start:build               : optee_examples
+1537868970:end  :build               : optee_examples
+1537868970:start:install-staging     : optee_examples
+1537868970:end  :install-staging     : optee_examples
+1537868970:start:install-target      : optee_examples
+1537868970:end  :install-target      : optee_examples
+1537868971:start:configure           : optee_test
+1537868974:end  :configure           : optee_test
+1537868974:start:build               : optee_test
+1537868975:end  :build               : optee_test
+1537868975:start:install-staging     : optee_test
+1537868975:end  :install-staging     : optee_test
+1537868975:start:install-target      : optee_test
+1537868975:end  :install-target      : optee_test
+1537869625:start:configure           : optee_client
+1537869628:end  :configure           : optee_client
+1537869628:start:build               : optee_client
+1537869628:end  :build               : optee_client
+1537869628:start:install-staging     : optee_client
+1537869628:end  :install-staging     : optee_client
+1537869628:start:install-target      : optee_client
+1537869628:end  :install-target      : optee_client
+1537869629:start:configure           : optee_examples
+1537869629:end  :configure           : optee_examples
+1537869629:start:build               : optee_examples
+1537869631:end  :build               : optee_examples
+1537869631:start:install-staging     : optee_examples
+1537869632:end  :install-staging     : optee_examples
+1537869632:start:install-target      : optee_examples
+1537869632:end  :install-target      : optee_examples
+1537869632:start:configure           : optee_test
+1537869635:end  :configure           : optee_test
+1537869635:start:build               : optee_test
+1537869636:end  :build               : optee_test
+1537869636:start:install-staging     : optee_test
+1537869636:end  :install-staging     : optee_test
+1537869636:start:install-target      : optee_test
+1537869636:end  :install-target      : optee_test
+1537953165:start:configure           : optee_client
+1537953187:end  :configure           : optee_client
+1537953187:start:build               : optee_client
+1537953188:end  :build               : optee_client
+1537953188:start:install-staging     : optee_client
+1537953188:end  :install-staging     : optee_client
+1537953188:start:install-target      : optee_client
+1537953188:end  :install-target      : optee_client
+1537953190:start:configure           : optee_examples
+1537953192:end  :configure           : optee_examples
+1537953192:start:build               : optee_examples
+1537954429:start:configure           : optee_client
+1537954432:end  :configure           : optee_client
+1537954432:start:build               : optee_client
+1537954432:end  :build               : optee_client
+1537954432:start:install-staging     : optee_client
+1537954432:end  :install-staging     : optee_client
+1537954432:start:install-target      : optee_client
+1537954433:end  :install-target      : optee_client
+1537954433:start:configure           : optee_examples
+1537954434:end  :configure           : optee_examples
+1537954434:start:build               : optee_examples
+1537954438:end  :build               : optee_examples
+1537954438:start:install-staging     : optee_examples
+1537954438:end  :install-staging     : optee_examples
+1537954438:start:install-target      : optee_examples
+1537954438:end  :install-target      : optee_examples
+1537954439:start:configure           : optee_test
+1537954442:end  :configure           : optee_test
+1537954442:start:build               : optee_test
+1537954442:end  :build               : optee_test
+1537954442:start:install-staging     : optee_test
+1537954442:end  :install-staging     : optee_test
+1537954442:start:install-target      : optee_test
+1537954443:end  :install-target      : optee_test
+1537954983:start:configure           : optee_client
+1537954986:end  :configure           : optee_client
+1537954986:start:build               : optee_client
+1537954986:end  :build               : optee_client
+1537954986:start:install-staging     : optee_client
+1537954986:end  :install-staging     : optee_client
+1537954986:start:install-target      : optee_client
+1537954986:end  :install-target      : optee_client
+1537954987:start:configure           : optee_examples
+1537954988:end  :configure           : optee_examples
+1537954988:start:build               : optee_examples
+1537954990:end  :build               : optee_examples
+1537954990:start:install-staging     : optee_examples
+1537954990:end  :install-staging     : optee_examples
+1537954990:start:install-target      : optee_examples
+1537954990:end  :install-target      : optee_examples
+1537954991:start:configure           : optee_test
+1537954994:end  :configure           : optee_test
+1537954994:start:build               : optee_test
+1537954994:end  :build               : optee_test
+1537954994:start:install-staging     : optee_test
+1537954995:end  :install-staging     : optee_test
+1537954995:start:install-target      : optee_test
+1537954995:end  :install-target      : optee_test
+1539155998:start:configure           : optee_client
+1539156002:end  :configure           : optee_client
+1539156002:start:build               : optee_client
+1539156002:end  :build               : optee_client
+1539156002:start:install-staging     : optee_client
+1539156002:end  :install-staging     : optee_client
+1539156002:start:install-target      : optee_client
+1539156002:end  :install-target      : optee_client
+1539156003:start:configure           : optee_examples
+1539156004:end  :configure           : optee_examples
+1539156004:start:build               : optee_examples
+1539156004:end  :build               : optee_examples
+1539156004:start:install-staging     : optee_examples
+1539156004:end  :install-staging     : optee_examples
+1539156004:start:install-target      : optee_examples
+1539156004:end  :install-target      : optee_examples
+1539156005:start:configure           : optee_test
+1539156008:end  :configure           : optee_test
+1539156008:start:build               : optee_test
+1539156009:end  :build               : optee_test
+1539156009:start:install-staging     : optee_test
+1539156009:end  :install-staging     : optee_test
+1539156009:start:install-target      : optee_test
+1539156009:end  :install-target      : optee_test
+1548833594:start:configure           : optee_client
+1548833618:end  :configure           : optee_client
+1548833618:start:build               : optee_client
+1548833624:end  :build               : optee_client
+1548833624:start:install-staging     : optee_client
+1548833625:end  :install-staging     : optee_client
+1548833627:start:install-target      : optee_client
+1548833628:end  :install-target      : optee_client
+1548833631:start:configure           : optee_examples
+1548833638:end  :configure           : optee_examples
+1548833638:start:build               : optee_examples
+1548833701:end  :build               : optee_examples
+1548833701:start:install-staging     : optee_examples
+1548833703:end  :install-staging     : optee_examples
+1548833706:start:install-target      : optee_examples
+1548833708:end  :install-target      : optee_examples
+1548833723:start:configure           : optee_test
+1548833752:end  :configure           : optee_test
+1548833752:start:build               : optee_test
+1548833769:end  :build               : optee_test
+1548833769:start:install-staging     : optee_test
+1548833769:end  :install-staging     : optee_test
+1548833770:start:install-target      : optee_test
+1548833770:end  :install-target      : optee_test
+1548834108:start:configure           : optee_client
+1548834112:end  :configure           : optee_client
+1548834112:start:build               : optee_client
+1548834112:end  :build               : optee_client
+1548834112:start:install-staging     : optee_client
+1548834112:end  :install-staging     : optee_client
+1548834112:start:install-target      : optee_client
+1548834112:end  :install-target      : optee_client
+1548834112:start:configure           : optee_examples
+1548834113:end  :configure           : optee_examples
+1548834113:start:build               : optee_examples
+1548834116:end  :build               : optee_examples
+1548834116:start:install-staging     : optee_examples
+1548834116:end  :install-staging     : optee_examples
+1548834116:start:install-target      : optee_examples
+1548834116:end  :install-target      : optee_examples
+1548834117:start:configure           : optee_test
+1548834120:end  :configure           : optee_test
+1548834120:start:build               : optee_test
+1548834124:end  :build               : optee_test
+1548834124:start:install-staging     : optee_test
+1548834124:end  :install-staging     : optee_test
+1548834124:start:install-target      : optee_test
+1548834124:end  :install-target      : optee_test
+1548834873:start:configure           : optee_client
+1548834877:end  :configure           : optee_client
+1548834877:start:build               : optee_client
+1548834877:end  :build               : optee_client
+1548834877:start:install-staging     : optee_client
+1548834877:end  :install-staging     : optee_client
+1548834877:start:install-target      : optee_client
+1548834877:end  :install-target      : optee_client
+1548834878:start:configure           : optee_examples
+1548834879:end  :configure           : optee_examples
+1548834879:start:build               : optee_examples
+1548834879:end  :build               : optee_examples
+1548834879:start:install-staging     : optee_examples
+1548834879:end  :install-staging     : optee_examples
+1548834879:start:install-target      : optee_examples
+1548834879:end  :install-target      : optee_examples
+1548834880:start:configure           : optee_test
+1548834883:end  :configure           : optee_test
+1548834883:start:build               : optee_test
+1548834884:end  :build               : optee_test
+1548834884:start:install-staging     : optee_test
+1548834884:end  :install-staging     : optee_test
+1548834884:start:install-target      : optee_test
+1548834884:end  :install-target      : optee_test
+1548920918:start:configure           : optee_client
+1548920922:end  :configure           : optee_client
+1548920922:start:build               : optee_client
+1548920922:end  :build               : optee_client
+1548920922:start:install-staging     : optee_client
+1548920922:end  :install-staging     : optee_client
+1548920922:start:install-target      : optee_client
+1548920922:end  :install-target      : optee_client
+1548920923:start:configure           : optee_examples
+1548920924:end  :configure           : optee_examples
+1548920924:start:build               : optee_examples
+1548920924:end  :build               : optee_examples
+1548920924:start:install-staging     : optee_examples
+1548920924:end  :install-staging     : optee_examples
+1548920924:start:install-target      : optee_examples
+1548920925:end  :install-target      : optee_examples
+1548920925:start:configure           : optee_test
+1548920928:end  :configure           : optee_test
+1548920928:start:build               : optee_test
+1548920929:end  :build               : optee_test
+1548920929:start:install-staging     : optee_test
+1548920929:end  :install-staging     : optee_test
+1548920929:start:install-target      : optee_test
+1548920929:end  :install-target      : optee_test
+1548929215:start:configure           : optee_client
+1548929219:end  :configure           : optee_client
+1548929219:start:build               : optee_client
+1548929219:end  :build               : optee_client
+1548929219:start:install-staging     : optee_client
+1548929219:end  :install-staging     : optee_client
+1548929220:start:install-target      : optee_client
+1548929220:end  :install-target      : optee_client
+1548929221:start:configure           : optee_examples
+1548929222:end  :configure           : optee_examples
+1548929222:start:build               : optee_examples
+1548929222:end  :build               : optee_examples
+1548929223:start:install-staging     : optee_examples
+1548929223:end  :install-staging     : optee_examples
+1548929223:start:install-target      : optee_examples
+1548929223:end  :install-target      : optee_examples
+1548929223:start:configure           : optee_test
+1548929226:end  :configure           : optee_test
+1548929226:start:build               : optee_test
+1548929227:end  :build               : optee_test
+1548929227:start:install-staging     : optee_test
+1548929227:end  :install-staging     : optee_test
+1548929227:start:install-target      : optee_test
+1548929227:end  :install-target      : optee_test
+1548936091:start:configure           : optee_client
+1548936095:end  :configure           : optee_client
+1548936095:start:build               : optee_client
+1548936095:end  :build               : optee_client
+1548936095:start:install-staging     : optee_client
+1548936095:end  :install-staging     : optee_client
+1548936095:start:install-target      : optee_client
+1548936096:end  :install-target      : optee_client
+1548936096:start:configure           : optee_examples
+1548936097:end  :configure           : optee_examples
+1548936097:start:build               : optee_examples
+1548936097:end  :build               : optee_examples
+1548936098:start:install-staging     : optee_examples
+1548936098:end  :install-staging     : optee_examples
+1548936098:start:install-target      : optee_examples
+1548936098:end  :install-target      : optee_examples
+1548936099:start:configure           : optee_test
+1548936102:end  :configure           : optee_test
+1548936102:start:build               : optee_test
+1548936103:end  :build               : optee_test
+1548936103:start:install-staging     : optee_test
+1548936103:end  :install-staging     : optee_test
+1548936103:start:install-target      : optee_test
+1548936103:end  :install-target      : optee_test
+1549372821:start:configure           : optee_client
+1549372825:end  :configure           : optee_client
+1549372825:start:build               : optee_client
+1549372825:end  :build               : optee_client
+1549372825:start:install-staging     : optee_client
+1549372825:end  :install-staging     : optee_client
+1549372825:start:install-target      : optee_client
+1549372825:end  :install-target      : optee_client
+1549372826:start:configure           : optee_examples
+1549372827:end  :configure           : optee_examples
+1549372827:start:build               : optee_examples
+1549372827:end  :build               : optee_examples
+1549372827:start:install-staging     : optee_examples
+1549372827:end  :install-staging     : optee_examples
+1549372827:start:install-target      : optee_examples
+1549372828:end  :install-target      : optee_examples
+1549372828:start:configure           : optee_test
+1549372831:end  :configure           : optee_test
+1549372831:start:build               : optee_test
+1549372832:end  :build               : optee_test
+1549372832:start:install-staging     : optee_test
+1549372832:end  :install-staging     : optee_test
+1549372832:start:install-target      : optee_test
+1549372833:end  :install-target      : optee_test
+1549432400:start:configure           : optee_client
+1549432408:end  :configure           : optee_client
+1549432408:start:build               : optee_client
+1549432408:end  :build               : optee_client
+1549432408:start:install-staging     : optee_client
+1549432409:end  :install-staging     : optee_client
+1549432409:start:install-target      : optee_client
+1549432410:end  :install-target      : optee_client
+1549432411:start:configure           : optee_examples
+1549432412:end  :configure           : optee_examples
+1549432412:start:build               : optee_examples
+1549432413:end  :build               : optee_examples
+1549432413:start:install-staging     : optee_examples
+1549432413:end  :install-staging     : optee_examples
+1549432413:start:install-target      : optee_examples
+1549432413:end  :install-target      : optee_examples
+1549432414:start:configure           : optee_test
+1549432420:end  :configure           : optee_test
+1549432420:start:build               : optee_test
+1549432422:end  :build               : optee_test
+1549432422:start:install-staging     : optee_test
+1549432422:end  :install-staging     : optee_test
+1549432422:start:install-target      : optee_test
+1549432423:end  :install-target      : optee_test
+1549438784:start:configure           : optee_client
+1549438814:end  :configure           : optee_client
+1549438814:start:build               : optee_client
+1549438814:end  :build               : optee_client
+1549438815:start:install-staging     : optee_client
+1549438815:end  :install-staging     : optee_client
+1549438816:start:install-target      : optee_client
+1549438817:end  :install-target      : optee_client
+1549438818:start:configure           : optee_examples
+1549438820:end  :configure           : optee_examples
+1549438820:start:build               : optee_examples
+1549438820:end  :build               : optee_examples
+1549438820:start:install-staging     : optee_examples
+1549438820:end  :install-staging     : optee_examples
+1549438820:start:install-target      : optee_examples
+1549438821:end  :install-target      : optee_examples
+1549438822:start:configure           : optee_test
+1549438825:end  :configure           : optee_test
+1549438825:start:build               : optee_test
+1549438826:end  :build               : optee_test
+1549438826:start:install-staging     : optee_test
+1549438826:end  :install-staging     : optee_test
+1549438826:start:install-target      : optee_test
+1549438826:end  :install-target      : optee_test
+1549443909:start:configure           : optee_client
+1549443925:end  :configure           : optee_client
+1549443925:start:build               : optee_client
+1549443926:end  :build               : optee_client
+1549443926:start:install-staging     : optee_client
+1549443927:end  :install-staging     : optee_client
+1549443927:start:install-target      : optee_client
+1549443928:end  :install-target      : optee_client
+1549443930:start:configure           : optee_examples
+1549443932:end  :configure           : optee_examples
+1549443932:start:build               : optee_examples
+1549443933:end  :build               : optee_examples
+1549443933:start:install-staging     : optee_examples
+1549443933:end  :install-staging     : optee_examples
+1549443933:start:install-target      : optee_examples
+1549443933:end  :install-target      : optee_examples
+1549443934:start:configure           : optee_test
+1549443937:end  :configure           : optee_test
+1549443937:start:build               : optee_test
+1549443938:end  :build               : optee_test
+1549443938:start:install-staging     : optee_test
+1549443938:end  :install-staging     : optee_test
+1549443938:start:install-target      : optee_test
+1549443938:end  :install-target      : optee_test
+1549447782:start:configure           : optee_client
+1549447786:end  :configure           : optee_client
+1549447786:start:build               : optee_client
+1549447786:end  :build               : optee_client
+1549447786:start:install-staging     : optee_client
+1549447787:end  :install-staging     : optee_client
+1549447787:start:install-target      : optee_client
+1549447787:end  :install-target      : optee_client
+1549447788:start:configure           : optee_examples
+1549447788:end  :configure           : optee_examples
+1549447789:start:build               : optee_examples
+1549447789:end  :build               : optee_examples
+1549447789:start:install-staging     : optee_examples
+1549447789:end  :install-staging     : optee_examples
+1549447789:start:install-target      : optee_examples
+1549447789:end  :install-target      : optee_examples
+1549447790:start:configure           : optee_test
+1549447793:end  :configure           : optee_test
+1549447793:start:build               : optee_test
+1549447793:end  :build               : optee_test
+1549447793:start:install-staging     : optee_test
+1549447793:end  :install-staging     : optee_test
+1549447793:start:install-target      : optee_test
+1549447794:end  :install-target      : optee_test
+1549452027:start:configure           : optee_client
+1549452031:end  :configure           : optee_client
+1549452031:start:build               : optee_client
+1549452031:end  :build               : optee_client
+1549452031:start:install-staging     : optee_client
+1549452031:end  :install-staging     : optee_client
+1549452032:start:install-target      : optee_client
+1549452032:end  :install-target      : optee_client
+1549452032:start:configure           : optee_examples
+1549452033:end  :configure           : optee_examples
+1549452033:start:build               : optee_examples
+1549452034:end  :build               : optee_examples
+1549452034:start:install-staging     : optee_examples
+1549452034:end  :install-staging     : optee_examples
+1549452034:start:install-target      : optee_examples
+1549452034:end  :install-target      : optee_examples
+1549452034:start:configure           : optee_test
+1549452038:end  :configure           : optee_test
+1549452038:start:build               : optee_test
+1549452038:end  :build               : optee_test
+1549452038:start:install-staging     : optee_test
+1549452038:end  :install-staging     : optee_test
+1549452038:start:install-target      : optee_test
+1549452039:end  :install-target      : optee_test
+1549519221:start:configure           : optee_client
+1549519225:end  :configure           : optee_client
+1549519225:start:build               : optee_client
+1549519225:end  :build               : optee_client
+1549519225:start:install-staging     : optee_client
+1549519225:end  :install-staging     : optee_client
+1549519226:start:install-target      : optee_client
+1549519226:end  :install-target      : optee_client
+1549519226:start:configure           : optee_examples
+1549519227:end  :configure           : optee_examples
+1549519227:start:build               : optee_examples
+1549519228:end  :build               : optee_examples
+1549519228:start:install-staging     : optee_examples
+1549519228:end  :install-staging     : optee_examples
+1549519228:start:install-target      : optee_examples
+1549519228:end  :install-target      : optee_examples
+1549519229:start:configure           : optee_test
+1549519234:end  :configure           : optee_test
+1549519234:start:build               : optee_test
+1549519235:end  :build               : optee_test
+1549519235:start:install-staging     : optee_test
+1549519235:end  :install-staging     : optee_test
+1549519235:start:install-target      : optee_test
+1549519236:end  :install-target      : optee_test
+1549520411:start:configure           : optee_client
+1549520427:end  :configure           : optee_client
+1549520427:start:build               : optee_client
+1549520427:end  :build               : optee_client
+1549520427:start:install-staging     : optee_client
+1549520428:end  :install-staging     : optee_client
+1549520429:start:install-target      : optee_client
+1549520430:end  :install-target      : optee_client
+1549520433:start:configure           : optee_examples
+1549520435:end  :configure           : optee_examples
+1549520435:start:build               : optee_examples
+1549520437:end  :build               : optee_examples
+1549520437:start:install-staging     : optee_examples
+1549520437:end  :install-staging     : optee_examples
+1549520437:start:install-target      : optee_examples
+1549520438:end  :install-target      : optee_examples
+1549520440:start:configure           : optee_test
+1549520448:end  :configure           : optee_test
+1549520448:start:build               : optee_test
+1549520448:end  :build               : optee_test
+1549520448:start:install-staging     : optee_test
+1549520448:end  :install-staging     : optee_test
+1549520448:start:install-target      : optee_test
+1549520449:end  :install-target      : optee_test
+1549520863:start:configure           : optee_client
+1549520866:end  :configure           : optee_client
+1549520866:start:build               : optee_client
+1549520866:end  :build               : optee_client
+1549520866:start:install-staging     : optee_client
+1549520867:end  :install-staging     : optee_client
+1549520867:start:install-target      : optee_client
+1549520867:end  :install-target      : optee_client
+1549520867:start:configure           : optee_examples
+1549520868:end  :configure           : optee_examples
+1549520868:start:build               : optee_examples
+1549520869:end  :build               : optee_examples
+1549520869:start:install-staging     : optee_examples
+1549520869:end  :install-staging     : optee_examples
+1549520869:start:install-target      : optee_examples
+1549520869:end  :install-target      : optee_examples
+1549520869:start:configure           : optee_test
+1549520873:end  :configure           : optee_test
+1549520873:start:build               : optee_test
+1549520873:end  :build               : optee_test
+1549520873:start:install-staging     : optee_test
+1549520873:end  :install-staging     : optee_test
+1549520873:start:install-target      : optee_test
+1549520874:end  :install-target      : optee_test
+1549522747:start:configure           : optee_client
+1549522779:end  :configure           : optee_client
+1549522779:start:build               : optee_client
+1549522779:end  :build               : optee_client
+1549522780:start:install-staging     : optee_client
+1549522780:end  :install-staging     : optee_client
+1549522783:start:install-target      : optee_client
+1549522785:end  :install-target      : optee_client
+1549522792:start:configure           : optee_examples
+1549522808:end  :configure           : optee_examples
+1549522808:start:build               : optee_examples
+1549522811:end  :build               : optee_examples
+1549522811:start:install-staging     : optee_examples
+1549522812:end  :install-staging     : optee_examples
+1549522813:start:install-target      : optee_examples
+1549522814:end  :install-target      : optee_examples
+1549522822:start:configure           : optee_test
+1549522842:end  :configure           : optee_test
+1549522842:start:build               : optee_test
+1549522844:end  :build               : optee_test
+1549522844:start:install-staging     : optee_test
+1549522844:end  :install-staging     : optee_test
+1549522845:start:install-target      : optee_test
+1549522846:end  :install-target      : optee_test
+1550129473:start:configure           : optee_client
+1550129514:end  :configure           : optee_client
+1550129514:start:build               : optee_client
+1550129514:end  :build               : optee_client
+1550129514:start:install-staging     : optee_client
+1550129515:end  :install-staging     : optee_client
+1550129518:start:install-target      : optee_client
+1550129519:end  :install-target      : optee_client
+1550129525:start:configure           : optee_examples
+1550129529:end  :configure           : optee_examples
+1550129529:start:build               : optee_examples
+1550129535:end  :build               : optee_examples
+1550129535:start:install-staging     : optee_examples
+1550129535:end  :install-staging     : optee_examples
+1550129535:start:install-target      : optee_examples
+1550129536:end  :install-target      : optee_examples
+1550129543:start:configure           : optee_test
+1550129561:end  :configure           : optee_test
+1550129561:start:build               : optee_test
+1550129566:end  :build               : optee_test
+1550129566:start:install-staging     : optee_test
+1550129566:end  :install-staging     : optee_test
+1550129566:start:install-target      : optee_test
+1550129568:end  :install-target      : optee_test
+1550131730:start:configure           : optee_client
+1550131734:end  :configure           : optee_client
+1550131734:start:build               : optee_client
+1550131734:end  :build               : optee_client
+1550131734:start:install-staging     : optee_client
+1550131734:end  :install-staging     : optee_client
+1550131734:start:install-target      : optee_client
+1550131734:end  :install-target      : optee_client
+1550131735:start:configure           : optee_examples
+1550131736:end  :configure           : optee_examples
+1550131736:start:build               : optee_examples
+1550131736:end  :build               : optee_examples
+1550131736:start:install-staging     : optee_examples
+1550131736:end  :install-staging     : optee_examples
+1550131736:start:install-target      : optee_examples
+1550131737:end  :install-target      : optee_examples
+1550131737:start:configure           : optee_test
+1550131740:end  :configure           : optee_test
+1550131740:start:build               : optee_test
+1550131741:end  :build               : optee_test
+1550131741:start:install-staging     : optee_test
+1550131741:end  :install-staging     : optee_test
+1550131741:start:install-target      : optee_test
+1550131741:end  :install-target      : optee_test
+1550143813:start:configure           : optee_client
+1550143827:end  :configure           : optee_client
+1550143827:start:build               : optee_client
+1550143827:end  :build               : optee_client
+1550143827:start:install-staging     : optee_client
+1550143827:end  :install-staging     : optee_client
+1550143828:start:install-target      : optee_client
+1550143829:end  :install-target      : optee_client
+1550143831:start:configure           : optee_examples
+1550143835:end  :configure           : optee_examples
+1550143835:start:build               : optee_examples
+1550143838:end  :build               : optee_examples
+1550143838:start:install-staging     : optee_examples
+1550143838:end  :install-staging     : optee_examples
+1550143838:start:install-target      : optee_examples
+1550143839:end  :install-target      : optee_examples
+1550143842:start:configure           : optee_test
+1550143851:end  :configure           : optee_test
+1550143851:start:build               : optee_test
+1550143853:end  :build               : optee_test
+1550143853:start:install-staging     : optee_test
+1550143853:end  :install-staging     : optee_test
+1550143854:start:install-target      : optee_test
+1550143854:end  :install-target      : optee_test
+1550727346:start:configure           : optee_client
+1550727358:end  :configure           : optee_client
+1550727358:start:build               : optee_client
+1550727358:end  :build               : optee_client
+1550727358:start:install-staging     : optee_client
+1550727358:end  :install-staging     : optee_client
+1550727359:start:install-target      : optee_client
+1550727360:end  :install-target      : optee_client
+1550727361:start:configure           : optee_examples
+1550727363:end  :configure           : optee_examples
+1550727363:start:build               : optee_examples
+1550727364:end  :build               : optee_examples
+1550727364:start:install-staging     : optee_examples
+1550727364:end  :install-staging     : optee_examples
+1550727365:start:install-target      : optee_examples
+1550727365:end  :install-target      : optee_examples
+1550727366:start:configure           : optee_test
+1550727372:end  :configure           : optee_test
+1550727372:start:build               : optee_test
+1550727373:end  :build               : optee_test
+1550727373:start:install-staging     : optee_test
+1550727373:end  :install-staging     : optee_test
+1550727373:start:install-target      : optee_test
+1550727374:end  :install-target      : optee_test
+1550736301:start:configure           : optee_client
+1550736326:end  :configure           : optee_client
+1550736326:start:build               : optee_client
+1550736327:end  :build               : optee_client
+1550736327:start:install-staging     : optee_client
+1550736328:end  :install-staging     : optee_client
+1550736332:start:install-target      : optee_client
+1550736334:end  :install-target      : optee_client
+1550736340:start:configure           : optee_examples
+1550736353:end  :configure           : optee_examples
+1550736353:start:build               : optee_examples
+1550736357:end  :build               : optee_examples
+1550736357:start:install-staging     : optee_examples
+1550736358:end  :install-staging     : optee_examples
+1550736358:start:install-target      : optee_examples
+1550736359:end  :install-target      : optee_examples
+1550736365:start:configure           : optee_test
+1550736399:end  :configure           : optee_test
+1550736399:start:build               : optee_test
+1550736405:end  :build               : optee_test
+1550736405:start:install-staging     : optee_test
+1550736406:end  :install-staging     : optee_test
+1550736409:start:install-target      : optee_test
+1550736410:end  :install-target      : optee_test
+1551078388:start:configure           : optee_client
+1551078395:end  :configure           : optee_client
+1551078395:start:build               : optee_client
+1551078395:end  :build               : optee_client
+1551078395:start:install-staging     : optee_client
+1551078395:end  :install-staging     : optee_client
+1551078396:start:install-target      : optee_client
+1551078396:end  :install-target      : optee_client
+1551078396:start:configure           : optee_examples
+1551078397:end  :configure           : optee_examples
+1551078397:start:build               : optee_examples
+1551078398:end  :build               : optee_examples
+1551078398:start:install-staging     : optee_examples
+1551078398:end  :install-staging     : optee_examples
+1551078398:start:install-target      : optee_examples
+1551078398:end  :install-target      : optee_examples
+1551078399:start:configure           : optee_test
+1551078403:end  :configure           : optee_test
+1551078403:start:build               : optee_test
+1551078403:end  :build               : optee_test
+1551078403:start:install-staging     : optee_test
+1551078403:end  :install-staging     : optee_test
+1551078403:start:install-target      : optee_test
+1551078404:end  :install-target      : optee_test
+1551084312:start:configure           : optee_client
+1551084325:end  :configure           : optee_client
+1551084325:start:build               : optee_client
+1551084326:end  :build               : optee_client
+1551084326:start:install-staging     : optee_client
+1551084326:end  :install-staging     : optee_client
+1551084328:start:install-target      : optee_client
+1551084329:end  :install-target      : optee_client
+1551084331:start:configure           : optee_examples
+1551084333:end  :configure           : optee_examples
+1551084333:start:build               : optee_examples
+1551084335:end  :build               : optee_examples
+1551084335:start:install-staging     : optee_examples
+1551084335:end  :install-staging     : optee_examples
+1551084335:start:install-target      : optee_examples
+1551084336:end  :install-target      : optee_examples
+1551084338:start:configure           : optee_test
+1551084343:end  :configure           : optee_test
+1551084343:start:build               : optee_test
+1551084343:end  :build               : optee_test
+1551084343:start:install-staging     : optee_test
+1551084343:end  :install-staging     : optee_test
+1551084343:start:install-target      : optee_test
+1551084344:end  :install-target      : optee_test
+1551084740:start:configure           : optee_client
+1551084744:end  :configure           : optee_client
+1551084744:start:build               : optee_client
+1551084744:end  :build               : optee_client
+1551084744:start:install-staging     : optee_client
+1551084744:end  :install-staging     : optee_client
+1551084744:start:install-target      : optee_client
+1551084745:end  :install-target      : optee_client
+1551084745:start:configure           : optee_examples
+1551084746:end  :configure           : optee_examples
+1551084746:start:build               : optee_examples
+1551084746:end  :build               : optee_examples
+1551084746:start:install-staging     : optee_examples
+1551084747:end  :install-staging     : optee_examples
+1551084747:start:install-target      : optee_examples
+1551084747:end  :install-target      : optee_examples
+1551084747:start:configure           : optee_test
+1551084750:end  :configure           : optee_test
+1551084750:start:build               : optee_test
+1551084751:end  :build               : optee_test
+1551084751:start:install-staging     : optee_test
+1551084751:end  :install-staging     : optee_test
+1551084751:start:install-target      : optee_test
+1551084751:end  :install-target      : optee_test
+1551087831:start:configure           : optee_client
+1551087864:end  :configure           : optee_client
+1551087864:start:build               : optee_client
+1551087864:end  :build               : optee_client
+1551087865:start:install-staging     : optee_client
+1551087865:end  :install-staging     : optee_client
+1551087870:start:install-target      : optee_client
+1551087871:end  :install-target      : optee_client
+1551087877:start:configure           : optee_examples
+1551087884:end  :configure           : optee_examples
+1551087884:start:build               : optee_examples
+1551087891:end  :build               : optee_examples
+1551087891:start:install-staging     : optee_examples
+1551087891:end  :install-staging     : optee_examples
+1551087891:start:install-target      : optee_examples
+1551087893:end  :install-target      : optee_examples
+1551087907:start:configure           : optee_test
+1551087929:end  :configure           : optee_test
+1551087929:start:build               : optee_test
+1551087938:end  :build               : optee_test
+1551087938:start:install-staging     : optee_test
+1551087938:end  :install-staging     : optee_test
+1551087938:start:install-target      : optee_test
+1551087940:end  :install-target      : optee_test
+1551091776:start:configure           : optee_client
+1551091788:end  :configure           : optee_client
+1551091788:start:build               : optee_client
+1551091788:end  :build               : optee_client
+1551091788:start:install-staging     : optee_client
+1551091789:end  :install-staging     : optee_client
+1551091790:start:install-target      : optee_client
+1551091791:end  :install-target      : optee_client
+1551091793:start:configure           : optee_examples
+1551091797:end  :configure           : optee_examples
+1551091797:start:build               : optee_examples
+1551091800:end  :build               : optee_examples
+1551091800:start:install-staging     : optee_examples
+1551091800:end  :install-staging     : optee_examples
+1551091800:start:install-target      : optee_examples
+1551091800:end  :install-target      : optee_examples
+1551091803:start:configure           : optee_test
+1551091808:end  :configure           : optee_test
+1551091808:start:build               : optee_test
+1551091809:end  :build               : optee_test
+1551091809:start:install-staging     : optee_test
+1551091809:end  :install-staging     : optee_test
+1551091809:start:install-target      : optee_test
+1551091809:end  :install-target      : optee_test
+1551094445:start:configure           : optee_client
+1551094461:end  :configure           : optee_client
+1551094461:start:build               : optee_client
+1551094461:end  :build               : optee_client
+1551094461:start:install-staging     : optee_client
+1551094461:end  :install-staging     : optee_client
+1551094462:start:install-target      : optee_client
+1551094462:end  :install-target      : optee_client
+1551094464:start:configure           : optee_examples
+1551094465:end  :configure           : optee_examples
+1551094465:start:build               : optee_examples
+1551094467:end  :build               : optee_examples
+1551094467:start:install-staging     : optee_examples
+1551094468:end  :install-staging     : optee_examples
+1551094468:start:install-target      : optee_examples
+1551094468:end  :install-target      : optee_examples
+1551094471:start:configure           : optee_test
+1551094479:end  :configure           : optee_test
+1551094479:start:build               : optee_test
+1551094480:end  :build               : optee_test
+1551094480:start:install-staging     : optee_test
+1551094480:end  :install-staging     : optee_test
+1551094480:start:install-target      : optee_test
+1551094480:end  :install-target      : optee_test
+1551095318:start:configure           : optee_client
+1551095334:end  :configure           : optee_client
+1551095334:start:build               : optee_client
+1551095334:end  :build               : optee_client
+1551095334:start:install-staging     : optee_client
+1551095334:end  :install-staging     : optee_client
+1551095335:start:install-target      : optee_client
+1551095336:end  :install-target      : optee_client
+1551095336:start:configure           : optee_examples
+1551095337:end  :configure           : optee_examples
+1551095337:start:build               : optee_examples
+1551095338:end  :build               : optee_examples
+1551095338:start:install-staging     : optee_examples
+1551095338:end  :install-staging     : optee_examples
+1551095338:start:install-target      : optee_examples
+1551095338:end  :install-target      : optee_examples
+1551095338:start:configure           : optee_test
+1551095342:end  :configure           : optee_test
+1551095342:start:build               : optee_test
+1551095342:end  :build               : optee_test
+1551095342:start:install-staging     : optee_test
+1551095342:end  :install-staging     : optee_test
+1551095342:start:install-target      : optee_test
+1551095343:end  :install-target      : optee_test
+1551098395:start:configure           : optee_client
+1551098410:end  :configure           : optee_client
+1551098410:start:build               : optee_client
+1551098411:end  :build               : optee_client
+1551098411:start:install-staging     : optee_client
+1551098411:end  :install-staging     : optee_client
+1551098412:start:install-target      : optee_client
+1551098413:end  :install-target      : optee_client
+1551098413:start:configure           : optee_examples
+1551098415:end  :configure           : optee_examples
+1551098415:start:build               : optee_examples
+1551098415:end  :build               : optee_examples
+1551098415:start:install-staging     : optee_examples
+1551098415:end  :install-staging     : optee_examples
+1551098415:start:install-target      : optee_examples
+1551098416:end  :install-target      : optee_examples
+1551098416:start:configure           : optee_test
+1551098421:end  :configure           : optee_test
+1551098421:start:build               : optee_test
+1551098422:end  :build               : optee_test
+1551098422:start:install-staging     : optee_test
+1551098422:end  :install-staging     : optee_test
+1551098422:start:install-target      : optee_test
+1551098422:end  :install-target      : optee_test
+1551100284:start:configure           : optee_client
+1551100301:end  :configure           : optee_client
+1551100301:start:build               : optee_client
+1551100301:end  :build               : optee_client
+1551100301:start:install-staging     : optee_client
+1551100302:end  :install-staging     : optee_client
+1551100302:start:install-target      : optee_client
+1551100303:end  :install-target      : optee_client
+1551100304:start:configure           : optee_examples
+1551100306:end  :configure           : optee_examples
+1551100306:start:build               : optee_examples
+1551100308:end  :build               : optee_examples
+1551100308:start:install-staging     : optee_examples
+1551100308:end  :install-staging     : optee_examples
+1551100308:start:install-target      : optee_examples
+1551100309:end  :install-target      : optee_examples
+1551100311:start:configure           : optee_test
+1551100319:end  :configure           : optee_test
+1551100319:start:build               : optee_test
+1551100320:end  :build               : optee_test
+1551100320:start:install-staging     : optee_test
+1551100320:end  :install-staging     : optee_test
+1551100320:start:install-target      : optee_test
+1551100320:end  :install-target      : optee_test
+1551334499:start:configure           : optee_client
+1551334556:end  :configure           : optee_client
+1551334557:start:build               : optee_client
+1551334558:end  :build               : optee_client
+1551334558:start:install-staging     : optee_client
+1551334559:end  :install-staging     : optee_client
+1551334566:start:install-target      : optee_client
+1551334568:end  :install-target      : optee_client
+1551334578:start:configure           : optee_examples
+1551334605:end  :configure           : optee_examples
+1551334605:start:build               : optee_examples
+1551334612:end  :build               : optee_examples
+1551334612:start:install-staging     : optee_examples
+1551334612:end  :install-staging     : optee_examples
+1551334613:start:install-target      : optee_examples
+1551334618:end  :install-target      : optee_examples
+1551334634:start:configure           : optee_test
+1551334709:end  :configure           : optee_test
+1551334710:start:build               : optee_test
+1551334716:end  :build               : optee_test
+1551334716:start:install-staging     : optee_test
+1551334716:end  :install-staging     : optee_test
+1551334719:start:install-target      : optee_test
+1551334721:end  :install-target      : optee_test
+1552901297:start:configure           : optee_client
+1552901311:end  :configure           : optee_client
+1552901311:start:build               : optee_client
+1552901311:end  :build               : optee_client
+1552901311:start:install-staging     : optee_client
+1552901311:end  :install-staging     : optee_client
+1552901314:start:install-target      : optee_client
+1552901314:end  :install-target      : optee_client
+1552901317:start:configure           : optee_examples
+1552901320:end  :configure           : optee_examples
+1552901320:start:build               : optee_examples
+1552901322:end  :build               : optee_examples
+1552901322:start:install-staging     : optee_examples
+1552901322:end  :install-staging     : optee_examples
+1552901322:start:install-target      : optee_examples
+1552901323:end  :install-target      : optee_examples
+1552901327:start:configure           : optee_test
+1552901336:end  :configure           : optee_test
+1552901336:start:build               : optee_test
+1552901339:end  :build               : optee_test
+1552901339:start:install-staging     : optee_test
+1552901339:end  :install-staging     : optee_test
+1552901339:start:install-target      : optee_test
+1552901340:end  :install-target      : optee_test
+1552904451:start:configure           : optee_client
+1552904467:end  :configure           : optee_client
+1552904468:start:build               : optee_client
+1552904468:end  :build               : optee_client
+1552904469:start:install-staging     : optee_client
+1552904469:end  :install-staging     : optee_client
+1552904471:start:install-target      : optee_client
+1552904472:end  :install-target      : optee_client
+1552904476:start:configure           : optee_examples
+1552904480:end  :configure           : optee_examples
+1552904480:start:build               : optee_examples
+1552904483:end  :build               : optee_examples
+1552904483:start:install-staging     : optee_examples
+1552904484:end  :install-staging     : optee_examples
+1552904484:start:install-target      : optee_examples
+1552904485:end  :install-target      : optee_examples
+1552904490:start:configure           : optee_test
+1552904502:end  :configure           : optee_test
+1552904502:start:build               : optee_test
+1552904505:end  :build               : optee_test
+1552904505:start:install-staging     : optee_test
+1552904505:end  :install-staging     : optee_test
+1552904505:start:install-target      : optee_test
+1552904506:end  :install-target      : optee_test
+1552905446:start:configure           : optee_client
+1552905458:end  :configure           : optee_client
+1552905458:start:build               : optee_client
+1552905459:end  :build               : optee_client
+1552905459:start:install-staging     : optee_client
+1552905459:end  :install-staging     : optee_client
+1552905459:start:install-target      : optee_client
+1552905459:end  :install-target      : optee_client
+1552905460:start:configure           : optee_examples
+1552905461:end  :configure           : optee_examples
+1552905462:start:build               : optee_examples
+1552905462:end  :build               : optee_examples
+1552905462:start:install-staging     : optee_examples
+1552905462:end  :install-staging     : optee_examples
+1552905462:start:install-target      : optee_examples
+1552905463:end  :install-target      : optee_examples
+1552905463:start:configure           : optee_test
+1552905469:end  :configure           : optee_test
+1552905469:start:build               : optee_test
+1552905469:end  :build               : optee_test
+1552905469:start:install-staging     : optee_test
+1552905470:end  :install-staging     : optee_test
+1552905470:start:install-target      : optee_test
+1552905470:end  :install-target      : optee_test
+1552975984:start:configure           : optee_client
+1552975999:end  :configure           : optee_client
+1552975999:start:build               : optee_client
+1552975999:end  :build               : optee_client
+1552975999:start:install-staging     : optee_client
+1552976000:end  :install-staging     : optee_client
+1552976001:start:install-target      : optee_client
+1552976002:end  :install-target      : optee_client
+1552976004:start:configure           : optee_examples
+1552976008:end  :configure           : optee_examples
+1552976008:start:build               : optee_examples
+1552976010:end  :build               : optee_examples
+1552976010:start:install-staging     : optee_examples
+1552976010:end  :install-staging     : optee_examples
+1552976010:start:install-target      : optee_examples
+1552976011:end  :install-target      : optee_examples
+1552976013:start:configure           : optee_test
+1552976021:end  :configure           : optee_test
+1552976021:start:build               : optee_test
+1552976022:end  :build               : optee_test
+1552976022:start:install-staging     : optee_test
+1552976022:end  :install-staging     : optee_test
+1552976022:start:install-target      : optee_test
+1552976022:end  :install-target      : optee_test
+1552989311:start:configure           : optee_client
+1552989344:end  :configure           : optee_client
+1552989344:start:build               : optee_client
+1552989344:end  :build               : optee_client
+1552989344:start:install-staging     : optee_client
+1552989345:end  :install-staging     : optee_client
+1552989346:start:install-target      : optee_client
+1552989346:end  :install-target      : optee_client
+1552989348:start:configure           : optee_examples
+1552989355:end  :configure           : optee_examples
+1552989355:start:build               : optee_examples
+1552989359:end  :build               : optee_examples
+1552989359:start:install-staging     : optee_examples
+1552989359:end  :install-staging     : optee_examples
+1552989360:start:install-target      : optee_examples
+1552989360:end  :install-target      : optee_examples
+1552989365:start:configure           : optee_test
+1552989380:end  :configure           : optee_test
+1552989381:start:build               : optee_test
+1552989382:end  :build               : optee_test
+1552989382:start:install-staging     : optee_test
+1552989382:end  :install-staging     : optee_test
+1552989382:start:install-target      : optee_test
+1552989382:end  :install-target      : optee_test
+1552991433:start:configure           : optee_client
+1552991446:end  :configure           : optee_client
+1552991446:start:build               : optee_client
+1552991446:end  :build               : optee_client
+1552991446:start:install-staging     : optee_client
+1552991446:end  :install-staging     : optee_client
+1552991448:start:install-target      : optee_client
+1552991449:end  :install-target      : optee_client
+1552991450:start:configure           : optee_examples
+1552991453:end  :configure           : optee_examples
+1552991453:start:build               : optee_examples
+1552991454:end  :build               : optee_examples
+1552991454:start:install-staging     : optee_examples
+1552991454:end  :install-staging     : optee_examples
+1552991454:start:install-target      : optee_examples
+1552991455:end  :install-target      : optee_examples
+1552991456:start:configure           : optee_test
+1552991460:end  :configure           : optee_test
+1552991460:start:build               : optee_test
+1552991461:end  :build               : optee_test
+1552991461:start:install-staging     : optee_test
+1552991461:end  :install-staging     : optee_test
+1552991461:start:install-target      : optee_test
+1552991461:end  :install-target      : optee_test
+1553148490:start:configure           : optee_client
+1553148516:end  :configure           : optee_client
+1553148516:start:build               : optee_client
+1553148516:end  :build               : optee_client
+1553148516:start:install-staging     : optee_client
+1553148517:end  :install-staging     : optee_client
+1553148521:start:install-target      : optee_client
+1553148524:end  :install-target      : optee_client
+1553148529:start:configure           : optee_examples
+1553148544:end  :configure           : optee_examples
+1553148544:start:build               : optee_examples
+1553149740:start:configure           : optee_client
+1553149765:end  :configure           : optee_client
+1553149765:start:build               : optee_client
+1553149765:end  :build               : optee_client
+1553149765:start:install-staging     : optee_client
+1553149766:end  :install-staging     : optee_client
+1553149769:start:install-target      : optee_client
+1553149769:end  :install-target      : optee_client
+1553149773:start:configure           : optee_examples
+1553149775:end  :configure           : optee_examples
+1553149775:start:build               : optee_examples
+1553149790:end  :build               : optee_examples
+1553149790:start:install-staging     : optee_examples
+1553149791:end  :install-staging     : optee_examples
+1553149791:start:install-target      : optee_examples
+1553149792:end  :install-target      : optee_examples
+1553149796:start:configure           : optee_test
+1553149814:end  :configure           : optee_test
+1553149814:start:build               : optee_test
+1553149819:end  :build               : optee_test
+1553149819:start:install-staging     : optee_test
+1553149819:end  :install-staging     : optee_test
+1553149819:start:install-target      : optee_test
+1553149820:end  :install-target      : optee_test
+1553150236:start:configure           : optee_client
+1553150240:end  :configure           : optee_client
+1553150240:start:build               : optee_client
+1553150240:end  :build               : optee_client
+1553150240:start:install-staging     : optee_client
+1553150240:end  :install-staging     : optee_client
+1553150240:start:install-target      : optee_client
+1553150240:end  :install-target      : optee_client
+1553150241:start:configure           : optee_examples
+1553150242:end  :configure           : optee_examples
+1553150242:start:build               : optee_examples
+1553150242:end  :build               : optee_examples
+1553150242:start:install-staging     : optee_examples
+1553150242:end  :install-staging     : optee_examples
+1553150242:start:install-target      : optee_examples
+1553150243:end  :install-target      : optee_examples
+1553150243:start:configure           : optee_test
+1553150247:end  :configure           : optee_test
+1553150247:start:build               : optee_test
+1553150248:end  :build               : optee_test
+1553150248:start:install-staging     : optee_test
+1553150248:end  :install-staging     : optee_test
+1553150248:start:install-target      : optee_test
+1553150248:end  :install-target      : optee_test
+1553151018:start:configure           : optee_client
+1553151064:end  :configure           : optee_client
+1553151064:start:build               : optee_client
+1553151065:end  :build               : optee_client
+1553151065:start:install-staging     : optee_client
+1553151066:end  :install-staging     : optee_client
+1553151070:start:install-target      : optee_client
+1553151072:end  :install-target      : optee_client
+1553151084:start:configure           : optee_examples
+1553151104:end  :configure           : optee_examples
+1553151104:start:build               : optee_examples
+1553151137:end  :build               : optee_examples
+1553151138:start:install-staging     : optee_examples
+1553151141:end  :install-staging     : optee_examples
+1553151145:start:install-target      : optee_examples
+1553151147:end  :install-target      : optee_examples
+1553151160:start:configure           : optee_test
+1553151260:end  :configure           : optee_test
+1553151262:start:build               : optee_test
+1553151277:end  :build               : optee_test
+1553151277:start:install-staging     : optee_test
+1553151279:end  :install-staging     : optee_test
+1553151284:start:install-target      : optee_test
+1553151287:end  :install-target      : optee_test
+1553158905:start:configure           : optee_client
+1553158935:end  :configure           : optee_client
+1553158935:start:build               : optee_client
+1553158935:end  :build               : optee_client
+1553158935:start:install-staging     : optee_client
+1553158936:end  :install-staging     : optee_client
+1553158939:start:install-target      : optee_client
+1553158941:end  :install-target      : optee_client
+1553158949:start:configure           : optee_examples
+1553158965:end  :configure           : optee_examples
+1553158965:start:build               : optee_examples
+1553158987:end  :build               : optee_examples
+1553158987:start:install-staging     : optee_examples
+1553158989:end  :install-staging     : optee_examples
+1553158989:start:install-target      : optee_examples
+1553158990:end  :install-target      : optee_examples
+1553158992:start:configure           : optee_test
+1553159010:end  :configure           : optee_test
+1553159010:start:build               : optee_test
+1553159012:end  :build               : optee_test
+1553159012:start:install-staging     : optee_test
+1553159012:end  :install-staging     : optee_test
+1553159012:start:install-target      : optee_test
+1553159013:end  :install-target      : optee_test
+1553161235:start:configure           : optee_client
+1553161263:end  :configure           : optee_client
+1553161263:start:build               : optee_client
+1553161263:end  :build               : optee_client
+1553161263:start:install-staging     : optee_client
+1553161264:end  :install-staging     : optee_client
+1553161267:start:install-target      : optee_client
+1553161268:end  :install-target      : optee_client
+1553161272:start:configure           : optee_examples
+1553161283:end  :configure           : optee_examples
+1553161283:start:build               : optee_examples
+1553161297:end  :build               : optee_examples
+1553161297:start:install-staging     : optee_examples
+1553161298:end  :install-staging     : optee_examples
+1553161298:start:install-target      : optee_examples
+1553161300:end  :install-target      : optee_examples
+1553161303:start:configure           : optee_test
+1553161316:end  :configure           : optee_test
+1553161316:start:build               : optee_test
+1553161317:end  :build               : optee_test
+1553161317:start:install-staging     : optee_test
+1553161317:end  :install-staging     : optee_test
+1553161317:start:install-target      : optee_test
+1553161317:end  :install-target      : optee_test
+1553162802:start:configure           : optee_client
+1553162810:end  :configure           : optee_client
+1553162810:start:build               : optee_client
+1553162810:end  :build               : optee_client
+1553162810:start:install-staging     : optee_client
+1553162810:end  :install-staging     : optee_client
+1553162810:start:install-target      : optee_client
+1553162810:end  :install-target      : optee_client
+1553162811:start:configure           : optee_examples
+1553162812:end  :configure           : optee_examples
+1553162812:start:build               : optee_examples
+1553162814:end  :build               : optee_examples
+1553162815:start:install-staging     : optee_examples
+1553162815:end  :install-staging     : optee_examples
+1553162815:start:install-target      : optee_examples
+1553162815:end  :install-target      : optee_examples
+1553162815:start:configure           : optee_test
+1553162819:end  :configure           : optee_test
+1553162819:start:build               : optee_test
+1553162821:end  :build               : optee_test
+1553162821:start:install-staging     : optee_test
+1553162821:end  :install-staging     : optee_test
+1553162821:start:install-target      : optee_test
+1553162821:end  :install-target      : optee_test
+1553163955:start:configure           : optee_client
+1553163959:end  :configure           : optee_client
+1553163959:start:build               : optee_client
+1553163959:end  :build               : optee_client
+1553163959:start:install-staging     : optee_client
+1553163959:end  :install-staging     : optee_client
+1553163959:start:install-target      : optee_client
+1553163960:end  :install-target      : optee_client
+1553163960:start:configure           : optee_examples
+1553163961:end  :configure           : optee_examples
+1553163961:start:build               : optee_examples
+1553163961:end  :build               : optee_examples
+1553163961:start:install-staging     : optee_examples
+1553163962:end  :install-staging     : optee_examples
+1553163962:start:install-target      : optee_examples
+1553163962:end  :install-target      : optee_examples
+1553163962:start:configure           : optee_test
+1553163966:end  :configure           : optee_test
+1553163966:start:build               : optee_test
+1553163967:end  :build               : optee_test
+1553163967:start:install-staging     : optee_test
+1553163967:end  :install-staging     : optee_test
+1553163967:start:install-target      : optee_test
+1553163967:end  :install-target      : optee_test
+1553234747:start:configure           : optee_client
+1553234763:end  :configure           : optee_client
+1553234763:start:build               : optee_client
+1553234763:end  :build               : optee_client
+1553234763:start:install-staging     : optee_client
+1553234763:end  :install-staging     : optee_client
+1553234765:start:install-target      : optee_client
+1553234765:end  :install-target      : optee_client
+1553234767:start:configure           : optee_examples
+1553234769:end  :configure           : optee_examples
+1553234769:start:build               : optee_examples
+1553235596:start:configure           : optee_client
+1553235602:end  :configure           : optee_client
+1553235602:start:build               : optee_client
+1553235602:end  :build               : optee_client
+1553235602:start:install-staging     : optee_client
+1553235602:end  :install-staging     : optee_client
+1553235602:start:install-target      : optee_client
+1553235602:end  :install-target      : optee_client
+1553235603:start:configure           : optee_examples
+1553235604:end  :configure           : optee_examples
+1553235604:start:build               : optee_examples
+1553235608:end  :build               : optee_examples
+1553235608:start:install-staging     : optee_examples
+1553235608:end  :install-staging     : optee_examples
+1553235608:start:install-target      : optee_examples
+1553235608:end  :install-target      : optee_examples
+1553235609:start:configure           : optee_test
+1553235612:end  :configure           : optee_test
+1553235612:start:build               : optee_test
+1553235613:end  :build               : optee_test
+1553235613:start:install-staging     : optee_test
+1553235613:end  :install-staging     : optee_test
+1553235613:start:install-target      : optee_test
+1553235613:end  :install-target      : optee_test
+1554097120:start:configure           : optee_client
+1554097125:end  :configure           : optee_client
+1554097125:start:build               : optee_client
+1554097125:end  :build               : optee_client
+1554097125:start:install-staging     : optee_client
+1554097125:end  :install-staging     : optee_client
+1554097125:start:install-target      : optee_client
+1554097126:end  :install-target      : optee_client
+1554097126:start:configure           : optee_examples
+1554097127:end  :configure           : optee_examples
+1554097127:start:build               : optee_examples
+1554097141:end  :build               : optee_examples
+1554097141:start:install-staging     : optee_examples
+1554097141:end  :install-staging     : optee_examples
+1554097141:start:install-target      : optee_examples
+1554097142:end  :install-target      : optee_examples
+1554097146:start:configure           : optee_test
+1554097149:end  :configure           : optee_test
+1554097149:start:build               : optee_test
+1554097156:end  :build               : optee_test
+1554097156:start:install-staging     : optee_test
+1554097156:end  :install-staging     : optee_test
+1554097156:start:install-target      : optee_test
+1554097156:end  :install-target      : optee_test
+1554109263:start:configure           : optee_client
+1554109280:end  :configure           : optee_client
+1554109280:start:build               : optee_client
+1554109280:end  :build               : optee_client
+1554109280:start:install-staging     : optee_client
+1554109281:end  :install-staging     : optee_client
+1554109283:start:install-target      : optee_client
+1554109284:end  :install-target      : optee_client
+1554109286:start:configure           : optee_examples
+1554109287:end  :configure           : optee_examples
+1554109287:start:build               : optee_examples
+1554109287:end  :build               : optee_examples
+1554109287:start:install-staging     : optee_examples
+1554109287:end  :install-staging     : optee_examples
+1554109287:start:install-target      : optee_examples
+1554109287:end  :install-target      : optee_examples
+1554109288:start:configure           : optee_test
+1554109292:end  :configure           : optee_test
+1554109292:start:build               : optee_test
+1554109292:end  :build               : optee_test
+1554109292:start:install-staging     : optee_test
+1554109293:end  :install-staging     : optee_test
+1554109293:start:install-target      : optee_test
+1554109293:end  :install-target      : optee_test
+1554115232:start:configure           : optee_client
+1554115247:end  :configure           : optee_client
+1554115248:start:build               : optee_client
+1554115248:end  :build               : optee_client
+1554115248:start:install-staging     : optee_client
+1554115248:end  :install-staging     : optee_client
+1554115249:start:install-target      : optee_client
+1554115250:end  :install-target      : optee_client
+1554115252:start:configure           : optee_examples
+1554115254:end  :configure           : optee_examples
+1554115254:start:build               : optee_examples
+1554115254:end  :build               : optee_examples
+1554115254:start:install-staging     : optee_examples
+1554115254:end  :install-staging     : optee_examples
+1554115254:start:install-target      : optee_examples
+1554115255:end  :install-target      : optee_examples
+1554115255:start:configure           : optee_test
+1554115259:end  :configure           : optee_test
+1554115259:start:build               : optee_test
+1554115259:end  :build               : optee_test
+1554115259:start:install-staging     : optee_test
+1554115259:end  :install-staging     : optee_test
+1554115259:start:install-target      : optee_test
+1554115260:end  :install-target      : optee_test
+1555482211:start:configure           : optee_client
+1555482215:end  :configure           : optee_client
+1555482215:start:build               : optee_client
+1555482215:end  :build               : optee_client
+1555482215:start:install-staging     : optee_client
+1555482215:end  :install-staging     : optee_client
+1555482216:start:install-target      : optee_client
+1555482216:end  :install-target      : optee_client
+1555482217:start:configure           : optee_examples
+1555482217:end  :configure           : optee_examples
+1555482217:start:build               : optee_examples
+1555482224:end  :build               : optee_examples
+1555482224:start:install-staging     : optee_examples
+1555482224:end  :install-staging     : optee_examples
+1555482224:start:install-target      : optee_examples
+1555482224:end  :install-target      : optee_examples
+1555482225:start:configure           : optee_test
+1555482228:end  :configure           : optee_test
+1555482228:start:build               : optee_test
+1555482233:end  :build               : optee_test
+1555482233:start:install-staging     : optee_test
+1555482233:end  :install-staging     : optee_test
+1555482233:start:install-target      : optee_test
+1555482233:end  :install-target      : optee_test
+1555581201:start:configure           : optee_client
+1555581205:end  :configure           : optee_client
+1555581205:start:build               : optee_client
+1555581205:end  :build               : optee_client
+1555581205:start:install-staging     : optee_client
+1555581205:end  :install-staging     : optee_client
+1555581206:start:install-target      : optee_client
+1555581206:end  :install-target      : optee_client
+1555581207:start:configure           : optee_examples
+1555581207:end  :configure           : optee_examples
+1555581207:start:build               : optee_examples
+1555581212:end  :build               : optee_examples
+1555581212:start:install-staging     : optee_examples
+1555581212:end  :install-staging     : optee_examples
+1555581212:start:install-target      : optee_examples
+1555581212:end  :install-target      : optee_examples
+1555581212:start:configure           : optee_test
+1555581216:end  :configure           : optee_test
+1555581216:start:build               : optee_test
+1555581221:end  :build               : optee_test
+1555581221:start:install-staging     : optee_test
+1555581221:end  :install-staging     : optee_test
+1555581221:start:install-target      : optee_test
+1555581221:end  :install-target      : optee_test
+1555584530:start:configure           : optee_client
+1555584540:end  :configure           : optee_client
+1555584540:start:build               : optee_client
+1555584540:end  :build               : optee_client
+1555584540:start:install-staging     : optee_client
+1555584540:end  :install-staging     : optee_client
+1555584543:start:install-target      : optee_client
+1555584543:end  :install-target      : optee_client
+1555584546:start:configure           : optee_examples
+1555584549:end  :configure           : optee_examples
+1555584549:start:build               : optee_examples
+1555584559:end  :build               : optee_examples
+1555584559:start:install-staging     : optee_examples
+1555584559:end  :install-staging     : optee_examples
+1555584559:start:install-target      : optee_examples
+1555584559:end  :install-target      : optee_examples
+1555584560:start:configure           : optee_test
+1555584563:end  :configure           : optee_test
+1555584563:start:build               : optee_test
+1555584568:end  :build               : optee_test
+1555584568:start:install-staging     : optee_test
+1555584568:end  :install-staging     : optee_test
+1555584568:start:install-target      : optee_test
+1555584568:end  :install-target      : optee_test
+1555585544:start:configure           : optee_client
+1555585583:end  :configure           : optee_client
+1555585583:start:build               : optee_client
+1555585583:end  :build               : optee_client
+1555585583:start:install-staging     : optee_client
+1555585585:end  :install-staging     : optee_client
+1555585590:start:install-target      : optee_client
+1555585592:end  :install-target      : optee_client
+1555585598:start:configure           : optee_examples
+1555585613:end  :configure           : optee_examples
+1555585613:start:build               : optee_examples
+1555585644:end  :build               : optee_examples
+1555585645:start:install-staging     : optee_examples
+1555585647:end  :install-staging     : optee_examples
+1555585650:start:install-target      : optee_examples
+1555585651:end  :install-target      : optee_examples
+1555585659:start:configure           : optee_test
+1555585685:end  :configure           : optee_test
+1555585685:start:build               : optee_test
+1555585687:end  :build               : optee_test
+1555585687:start:install-staging     : optee_test
+1555585687:end  :install-staging     : optee_test
+1555585689:start:install-target      : optee_test
+1555585690:end  :install-target      : optee_test
+1555650672:start:configure           : optee_client
+1555650685:end  :configure           : optee_client
+1555650685:start:build               : optee_client
+1555650685:end  :build               : optee_client
+1555650685:start:install-staging     : optee_client
+1555650685:end  :install-staging     : optee_client
+1555650685:start:install-target      : optee_client
+1555650685:end  :install-target      : optee_client
+1555650686:start:configure           : optee_examples
+1555650687:end  :configure           : optee_examples
+1555650687:start:build               : optee_examples
+1555650690:end  :build               : optee_examples
+1555650690:start:install-staging     : optee_examples
+1555650690:end  :install-staging     : optee_examples
+1555650690:start:install-target      : optee_examples
+1555650690:end  :install-target      : optee_examples
+1555650691:start:configure           : optee_test
+1555650694:end  :configure           : optee_test
+1555650694:start:build               : optee_test
+1555650695:end  :build               : optee_test
+1555650695:start:install-staging     : optee_test
+1555650695:end  :install-staging     : optee_test
+1555650695:start:install-target      : optee_test
+1555650695:end  :install-target      : optee_test
+1555913879:start:configure           : optee_client
+1555913884:end  :configure           : optee_client
+1555913884:start:build               : optee_client
+1555913884:end  :build               : optee_client
+1555913884:start:install-staging     : optee_client
+1555913885:end  :install-staging     : optee_client
+1555913885:start:install-target      : optee_client
+1555913885:end  :install-target      : optee_client
+1555913886:start:configure           : optee_examples
+1555913887:end  :configure           : optee_examples
+1555913887:start:build               : optee_examples
+1555913891:end  :build               : optee_examples
+1555913891:start:install-staging     : optee_examples
+1555913891:end  :install-staging     : optee_examples
+1555913891:start:install-target      : optee_examples
+1555913891:end  :install-target      : optee_examples
+1555913892:start:configure           : optee_test
+1555913895:end  :configure           : optee_test
+1555913896:start:build               : optee_test
+1555913900:end  :build               : optee_test
+1555913901:start:install-staging     : optee_test
+1555913901:end  :install-staging     : optee_test
+1555913901:start:install-target      : optee_test
+1555913901:end  :install-target      : optee_test
+1555925622:start:configure           : optee_client
+1555925641:end  :configure           : optee_client
+1555925641:start:build               : optee_client
+1555925642:end  :build               : optee_client
+1555925642:start:install-staging     : optee_client
+1555925642:end  :install-staging     : optee_client
+1555925644:start:install-target      : optee_client
+1555925645:end  :install-target      : optee_client
+1555925647:start:configure           : optee_examples
+1555925650:end  :configure           : optee_examples
+1555925650:start:build               : optee_examples
+1555925668:end  :build               : optee_examples
+1555925668:start:install-staging     : optee_examples
+1555925669:end  :install-staging     : optee_examples
+1555925669:start:install-target      : optee_examples
+1555925670:end  :install-target      : optee_examples
+1555925673:start:configure           : optee_test
+1555925688:end  :configure           : optee_test
+1555925688:start:build               : optee_test
+1555925717:end  :build               : optee_test
+1555925717:start:install-staging     : optee_test
+1555925718:end  :install-staging     : optee_test
+1555925718:start:install-target      : optee_test
+1555925720:end  :install-target      : optee_test
+1555927603:start:configure           : optee_client
+1555927643:end  :configure           : optee_client
+1555927643:start:build               : optee_client
+1555927644:end  :build               : optee_client
+1555927644:start:install-staging     : optee_client
+1555927644:end  :install-staging     : optee_client
+1555927647:start:install-target      : optee_client
+1555927648:end  :install-target      : optee_client
+1555927653:start:configure           : optee_examples
+1555927659:end  :configure           : optee_examples
+1555927659:start:build               : optee_examples
+1555927676:end  :build               : optee_examples
+1555927676:start:install-staging     : optee_examples
+1555927676:end  :install-staging     : optee_examples
+1555927676:start:install-target      : optee_examples
+1555927677:end  :install-target      : optee_examples
+1555927679:start:configure           : optee_test
+1555927690:end  :configure           : optee_test
+1555927690:start:build               : optee_test
+1555927706:end  :build               : optee_test
+1555927706:start:install-staging     : optee_test
+1555927707:end  :install-staging     : optee_test
+1555927708:start:install-target      : optee_test
+1555927709:end  :install-target      : optee_test
+1555929163:start:configure           : optee_client
+1555929174:end  :configure           : optee_client
+1555929174:start:build               : optee_client
+1555929174:end  :build               : optee_client
+1555929174:start:install-staging     : optee_client
+1555929175:end  :install-staging     : optee_client
+1555929175:start:install-target      : optee_client
+1555929175:end  :install-target      : optee_client
+1555929176:start:configure           : optee_examples
+1555929177:end  :configure           : optee_examples
+1555929177:start:build               : optee_examples
+1555929181:end  :build               : optee_examples
+1555929181:start:install-staging     : optee_examples
+1555929181:end  :install-staging     : optee_examples
+1555929181:start:install-target      : optee_examples
+1555929181:end  :install-target      : optee_examples
+1555929182:start:configure           : optee_test
+1555929186:end  :configure           : optee_test
+1555929186:start:build               : optee_test
+1555929191:end  :build               : optee_test
+1555929191:start:install-staging     : optee_test
+1555929191:end  :install-staging     : optee_test
+1555929191:start:install-target      : optee_test
+1555929191:end  :install-target      : optee_test
+1555931764:start:configure           : optee_client
+1555931781:end  :configure           : optee_client
+1555931781:start:build               : optee_client
+1555931781:end  :build               : optee_client
+1555931781:start:install-staging     : optee_client
+1555931781:end  :install-staging     : optee_client
+1555931781:start:install-target      : optee_client
+1555931781:end  :install-target      : optee_client
+1555931782:start:configure           : optee_examples
+1555931783:end  :configure           : optee_examples
+1555931783:start:build               : optee_examples
+1555931788:end  :build               : optee_examples
+1555931788:start:install-staging     : optee_examples
+1555931788:end  :install-staging     : optee_examples
+1555931788:start:install-target      : optee_examples
+1555931788:end  :install-target      : optee_examples
+1555931789:start:configure           : optee_test
+1555931802:end  :configure           : optee_test
+1555931802:start:build               : optee_test
+1555931811:end  :build               : optee_test
+1555931811:start:install-staging     : optee_test
+1555931811:end  :install-staging     : optee_test
+1555931811:start:install-target      : optee_test
+1555931811:end  :install-target      : optee_test
+1555932629:start:configure           : optee_client
+1555932639:end  :configure           : optee_client
+1555932639:start:build               : optee_client
+1555932639:end  :build               : optee_client
+1555932639:start:install-staging     : optee_client
+1555932639:end  :install-staging     : optee_client
+1555932640:start:install-target      : optee_client
+1555932640:end  :install-target      : optee_client
+1555932641:start:configure           : optee_examples
+1555932641:end  :configure           : optee_examples
+1555932641:start:build               : optee_examples
+1555932645:end  :build               : optee_examples
+1555932645:start:install-staging     : optee_examples
+1555932645:end  :install-staging     : optee_examples
+1555932645:start:install-target      : optee_examples
+1555932645:end  :install-target      : optee_examples
+1555932645:start:configure           : optee_test
+1555932649:end  :configure           : optee_test
+1555932649:start:build               : optee_test
+1555932653:end  :build               : optee_test
+1555932653:start:install-staging     : optee_test
+1555932653:end  :install-staging     : optee_test
+1555932653:start:install-target      : optee_test
+1555932653:end  :install-target      : optee_test
+1555933373:start:configure           : optee_client
+1555933389:end  :configure           : optee_client
+1555933389:start:build               : optee_client
+1555933389:end  :build               : optee_client
+1555933389:start:install-staging     : optee_client
+1555933389:end  :install-staging     : optee_client
+1555933389:start:install-target      : optee_client
+1555933389:end  :install-target      : optee_client
+1555933390:start:configure           : optee_examples
+1555933391:end  :configure           : optee_examples
+1555933391:start:build               : optee_examples
+1555933393:end  :build               : optee_examples
+1555933393:start:install-staging     : optee_examples
+1555933393:end  :install-staging     : optee_examples
+1555933393:start:install-target      : optee_examples
+1555933393:end  :install-target      : optee_examples
+1555933394:start:configure           : optee_test
+1555933397:end  :configure           : optee_test
+1555933397:start:build               : optee_test
+1555933397:end  :build               : optee_test
+1555933397:start:install-staging     : optee_test
+1555933398:end  :install-staging     : optee_test
+1555933398:start:install-target      : optee_test
+1555933398:end  :install-target      : optee_test
+1555934201:start:configure           : optee_client
+1555934204:end  :configure           : optee_client
+1555934204:start:build               : optee_client
+1555934204:end  :build               : optee_client
+1555934204:start:install-staging     : optee_client
+1555934205:end  :install-staging     : optee_client
+1555934205:start:install-target      : optee_client
+1555934205:end  :install-target      : optee_client
+1555934205:start:configure           : optee_examples
+1555934206:end  :configure           : optee_examples
+1555934206:start:build               : optee_examples
+1555934210:end  :build               : optee_examples
+1555934210:start:install-staging     : optee_examples
+1555934210:end  :install-staging     : optee_examples
+1555934210:start:install-target      : optee_examples
+1555934210:end  :install-target      : optee_examples
+1555934210:start:configure           : optee_test
+1555934214:end  :configure           : optee_test
+1555934214:start:build               : optee_test
+1555934218:end  :build               : optee_test
+1555934218:start:install-staging     : optee_test
+1555934218:end  :install-staging     : optee_test
+1555934218:start:install-target      : optee_test
+1555934219:end  :install-target      : optee_test
+1555934791:start:configure           : optee_client
+1555934795:end  :configure           : optee_client
+1555934795:start:build               : optee_client
+1555934795:end  :build               : optee_client
+1555934795:start:install-staging     : optee_client
+1555934795:end  :install-staging     : optee_client
+1555934795:start:install-target      : optee_client
+1555934795:end  :install-target      : optee_client
+1555934796:start:configure           : optee_examples
+1555934797:end  :configure           : optee_examples
+1555934797:start:build               : optee_examples
+1555942251:start:configure           : optee_client
+1555942255:end  :configure           : optee_client
+1555942255:start:build               : optee_client
+1555942255:end  :build               : optee_client
+1555942255:start:install-staging     : optee_client
+1555942255:end  :install-staging     : optee_client
+1555942255:start:install-target      : optee_client
+1555942255:end  :install-target      : optee_client
+1555942256:start:configure           : optee_examples
+1555942257:end  :configure           : optee_examples
+1555942257:start:build               : optee_examples
+1555942262:end  :build               : optee_examples
+1555942262:start:install-staging     : optee_examples
+1555942262:end  :install-staging     : optee_examples
+1555942262:start:install-target      : optee_examples
+1555942262:end  :install-target      : optee_examples
+1555942262:start:configure           : optee_test
+1555942266:end  :configure           : optee_test
+1555942266:start:build               : optee_test
+1555942270:end  :build               : optee_test
+1555942270:start:install-staging     : optee_test
+1555942270:end  :install-staging     : optee_test
+1555942270:start:install-target      : optee_test
+1555942270:end  :install-target      : optee_test
+1555996822:start:configure           : optee_client
+1555996836:end  :configure           : optee_client
+1555996836:start:build               : optee_client
+1555996836:end  :build               : optee_client
+1555996836:start:install-staging     : optee_client
+1555996837:end  :install-staging     : optee_client
+1555996838:start:install-target      : optee_client
+1555996838:end  :install-target      : optee_client
+1555996841:start:configure           : optee_examples
+1555996842:end  :configure           : optee_examples
+1555996842:start:build               : optee_examples
+1555996845:end  :build               : optee_examples
+1555996845:start:install-staging     : optee_examples
+1555996845:end  :install-staging     : optee_examples
+1555996845:start:install-target      : optee_examples
+1555996846:end  :install-target      : optee_examples
+1555996846:start:configure           : optee_test
+1555996850:end  :configure           : optee_test
+1555996850:start:build               : optee_test
+1555996850:end  :build               : optee_test
+1555996850:start:install-staging     : optee_test
+1555996850:end  :install-staging     : optee_test
+1555996850:start:install-target      : optee_test
+1555996851:end  :install-target      : optee_test

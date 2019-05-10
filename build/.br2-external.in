@@ -1,0 +1,13 @@
+#
+# Automatically generated file; DO NOT EDIT.
+#
+
+menu "External options"
+
+comment "OP-TEE br2-external tree (in /home/lagadanu/Desktop/qemu/build/br-ext)"
+config BR2_EXTERNAL_OPTEE_PATH
+	string
+	default "/home/lagadanu/Desktop/qemu/build/br-ext"
+source "/home/lagadanu/Desktop/qemu/build/br-ext/Config.in"
+
+endmenu # User-provided options

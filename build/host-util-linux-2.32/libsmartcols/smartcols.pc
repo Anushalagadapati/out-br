@@ -1,0 +1,10 @@
+prefix=/home/lagadanu/devel/optee/qemu/out-br/host
+exec_prefix=/home/lagadanu/devel/optee/qemu/out-br/host
+libdir=/home/lagadanu/devel/optee/qemu/out-br/host/lib
+includedir=/home/lagadanu/devel/optee/qemu/out-br/host/include
+
+Name: smartcols
+Description: table or tree library
+Version: 2.32.0
+Cflags: -I${includedir}/libsmartcols
+Libs: -L${libdir} -lsmartcols

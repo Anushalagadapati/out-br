@@ -1,0 +1,6 @@
+#!/bin/sh
+set -e
+   	mkdir -p /home/lagadanu/Desktop/qemu/out-br/build/buildroot-fs/tar/target
+	tar xf /home/lagadanu/Desktop/qemu/out-br/build/buildroot-fs/rootfs.common.tar -C /home/lagadanu/Desktop/qemu/out-br/build/buildroot-fs/tar/target
+   
+   	(cd /home/lagadanu/Desktop/qemu/out-br/build/buildroot-fs/tar/target; find -print0 | LC_ALL=C sort -z | tar  -cf /home/lagadanu/Desktop/qemu/out-br/images/rootfs.tar --null --no-recursion -T - --numeric-owner)

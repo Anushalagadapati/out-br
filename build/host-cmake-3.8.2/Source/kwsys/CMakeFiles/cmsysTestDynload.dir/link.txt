@@ -1,0 +1,1 @@
+/usr/bin/gcc -fPIC -O2 -L/home/lagadanu/devel/optee/qemu/out-br/host/lib -Wl,-rpath,/home/lagadanu/devel/optee/qemu/out-br/host/lib -shared  -o libcmsysTestDynload.so CMakeFiles/cmsysTestDynload.dir/testDynload.c.o 

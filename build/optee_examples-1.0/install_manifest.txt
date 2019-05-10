@@ -1,0 +1,7 @@
+/usr/bin/acipher
+/usr/bin/aes
+/usr/bin/str
+/usr/bin/strpr
+/usr/bin/hello_world
+/usr/bin/hotp
+/usr/bin/random

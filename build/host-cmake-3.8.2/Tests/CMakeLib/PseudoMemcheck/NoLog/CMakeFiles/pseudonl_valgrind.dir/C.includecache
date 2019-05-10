@@ -1,0 +1,10 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lagadanu/devel/optee/qemu/out-br/build/host-cmake-3.8.2/Tests/CMakeLib/PseudoMemcheck/NoLog/ret0.c
+
